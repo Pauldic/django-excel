@@ -8,7 +8,7 @@ from core.models import Question, Choice
 from django.views.decorators.csrf import csrf_exempt
 
 data = [[1, 2, 3], [4, 5, 6]]
-
+# bls
 
 class UploadFileForm(forms.Form):
     file = forms.FileField()
