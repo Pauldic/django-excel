@@ -324,7 +324,8 @@ def git(request):
     else:
         print(".......... Get")
     
-    
+    for key, value in request.POST.items():
+        print("{}: {} \n".format(key, value))
     
     return render(
         request,
