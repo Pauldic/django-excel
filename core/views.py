@@ -5,6 +5,7 @@ from django import forms
 import django_excel as excel
 from core.models import Question, Choice
 
+from django.views.decorators.csrf import csrf_exempt
 data = [[1, 2, 3], [4, 5, 6]]
 
 
