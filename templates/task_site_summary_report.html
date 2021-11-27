@@ -1,0 +1,30 @@
+<html>
+<head>
+    <title>{{title}}</title>
+</head>
+<body>
+    <h1>{{ sites }}</h1>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Task</th>
+                <th>Hours Worked</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for key, value in items.items %}
+                <tr>
+                    <td>{{ key }}</td>
+                    <td>{{ value }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+        
+
+    <div>
+        body.....
+    </div>
+</body>
+</html>
