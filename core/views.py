@@ -320,8 +320,8 @@ def site_work_summary(request):
 @csrf_exempt
 def git(request):
     if request.method == "POST":
-        print(request.POST.items())
-        print("..........1 Post")
+        print(dict(request.POST.items()))
+        print("..........2 Post")
     else:
         print("..........1 Get")
     
