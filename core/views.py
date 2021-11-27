@@ -6,6 +6,7 @@ import django_excel as excel
 from core.models import Question, Choice
 
 from django.views.decorators.csrf import csrf_exempt
+
 data = [[1, 2, 3], [4, 5, 6]]
 
 
@@ -298,6 +299,26 @@ def import_without_bulk_save(request):
 
 
 def site_work_summary(request):
+    if request.method == "POST":
+        print(".......... Post")
+    else:
+        print(".......... Get")
+    
+    
+    
+    return render(
+        request,
+        "task_site_summary_report.html",
+        {
+            "title": "Import excel data into database example",
+            "header": "Please upload sample-data.xls:",
+        },
+    )
+
+
+
+@csrf_exempt
+def git(request):
     if request.method == "POST":
         print(".......... Post")
     else:
