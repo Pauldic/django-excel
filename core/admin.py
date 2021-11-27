@@ -24,6 +24,7 @@ from reportlab.lib.pagesizes import letter
 
 # def get_export_queryset(self, request):
 #         """
+#         Bla bla bla
 #         Returns export queryset.
 #         Default implementation respects applied search and filters.
 #         """
