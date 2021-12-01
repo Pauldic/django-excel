@@ -319,7 +319,7 @@ def site_work_summary(request):
 @csrf_exempt
 def git(request):
     
-    print("Request From: {}".format(request.META['HTTP_HOST']))
+    print("****Request From: {}".format(request.META['HTTP_HOST']))
     if request.method == "POST":
         print(dict(request.POST.items()))
         print("..........2 Post")
