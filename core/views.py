@@ -326,7 +326,12 @@ def git(request):
     else:
         print("..........1 Get")
     
+    print("**** Body....")
     for key, value in request.POST.items():
+        print("{}: {} \n".format(key, value))
+    
+    print("**** Header....")
+    for key, value in request.headers.items():
         print("{}: {} \n".format(key, value))
     
     return render(
