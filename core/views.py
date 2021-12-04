@@ -347,5 +347,9 @@ def git(request):
     if request.method == "POST":
         print(subprocess.run(["git", "pull"]))
         
+    # TODO: capture the subprocess response and check if any *.py was changed, then resstart the uwsgi service
+    if True:
+        print("\n------------------\n")
+        print(subprocess.run(["sudo", "service", "uwsgi", "restart"]))
     return HttpResponse(status=204)
     
