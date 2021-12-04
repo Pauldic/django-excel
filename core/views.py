@@ -313,7 +313,17 @@ def site_work_summary(request):
             "header": "Please upload sample-data.xls:",
         },
     )
-
+    
+    # public function gitPull()
+    # {
+    #     $vvv = "******Log********";
+    #     error_log(print_r($vvv, TRUE));
+    #     $res = shell_exec("git pull  origin main");
+    #     error_log(print_r($res, TRUE));
+    # }
+    # error_log(print_r($vvv, TRUE));
+    # $process = new Process(["git", "pull", "origin", "main"]);
+    # $process->run();
 
 
 @csrf_exempt
