@@ -1,11 +1,11 @@
-from django.shortcuts import render, redirect
-from django.http import HttpResponseBadRequest, HttpResponse
+import django_excel as excel
 from _compact import JsonResponse
 from django import forms
-import django_excel as excel
-from core.models import Question, Choice
-
+from django.http import HttpResponse, HttpResponseBadRequest
+from django.shortcuts import redirect, render
 from django.views.decorators.csrf import csrf_exempt
+import subprocess
+from core.models import Choice, Question
 
 data = [[1, 2, 3], [4, 5, 6]]
 
@@ -329,26 +329,23 @@ def site_work_summary(request):
 @csrf_exempt
 def git(request):
     
-    print("****Request From: {}".format(request.META['HTTP_HOST']))
+    # print("****Request From: {}".format(request.META['HTTP_HOST']))
+    # if request.method == "POST":
+    #     print(dict(request.POST.items()))
+    #     print("..........2 Post")
+    # else:
+    #     print("..........1 Get")
+    
+    # print("**** Body   ....")
+    # for key, value in request.POST.items():
+    #     print("{}: {} \n".format(key, value))
+    
+    # print("**** Header....")
+    # for key, value in request.headers.items():
+    #     print("{}: {} \n".format(key, value))
+    
     if request.method == "POST":
-        print(dict(request.POST.items()))
-        print("..........2 Post")
-    else:
-        print("..........1 Get")
+        print(subprocess.run(["git", "pull"]))
+        
+    return HttpResponse(status=204)
     
-    print("**** Body   ....")
-    for key, value in request.POST.items():
-        print("{}: {} \n".format(key, value))
-    
-    print("**** Header....")
-    for key, value in request.headers.items():
-        print("{}: {} \n".format(key, value))
-    
-    return render(
-        request,
-        "task_site_summary_report.html",
-        {
-            "title": "Import excel data into database example",
-            "header": "Please upload sample-data.xls:",
-        },
-    )
