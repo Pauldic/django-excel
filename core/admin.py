@@ -4,6 +4,8 @@ import os
 import locale
 import pathlib
 
+import shutil
+
 from django.contrib import admin, messages
 from django.shortcuts import render, redirect
 from import_export import resources
@@ -20,6 +22,7 @@ from PyPDF2 import PdfFileWriter, PdfFileReader, PdfFileMerger
 from pathlib import Path
 from reportlab.pdfgen import canvas
 from reportlab.lib.pagesizes import letter
+from django.conf import settings
 
 
 # def get_export_queryset(self, request):
@@ -172,6 +175,7 @@ export_summary.short_description = 'Export Summary'
 def save_page(packet, can, file_name, pages):
     pdf_path = ("InvoiceTemplate.pdf")
     
+    print("************* {}".format(file_name))
     can.save()
     # move to the beginning of the StringIO buffer
     packet.seek(0)
@@ -188,7 +192,8 @@ def save_page(packet, can, file_name, pages):
     output.addPage(page)
     # finally, write "output" to a real file
 
-
+    FOLDER_PATH = "{}/{}".format(settings.MEDIA_ROOT, "INVOICES")
+    
     outputStream = open(file_name, "wb")
     output.write(outputStream)
     outputStream.close()
@@ -223,12 +228,25 @@ def get_total(content):
     
 def generate_invoice(modeladmin, request, queryset, is_custom=False):
     print("Generate Invoice")
-    FOLDER = "INVOICES/"
+    FOLDER = "{}/{}/".format(settings.MEDIA_ROOT, "INVOICES")
+    # FOLDER = "INVOICES"
     if request.method == "POST":
         print(".......... Post")
     else:
         print(".......... Get")
     
+    # First empty the folder
+    for filename in os.listdir(FOLDER):
+        file_path = os.path.join(FOLDER, filename)
+        try:
+            if os.path.isfile(file_path) or os.path.islink(file_path):
+                os.unlink(file_path)
+            elif os.path.isdir(file_path):
+                shutil.rmtree(file_path)
+        except Exception as e:
+            print('Failed to delete %s. Reason: %s' % (file_path, e))
+        
+        
     # print("**** {} Queryset".format(len(queryset)))
     
     contents = {}
@@ -308,6 +326,7 @@ def generate_invoice(modeladmin, request, queryset, is_custom=False):
         
         x = 0
         extra_line = 0
+        is_saved = False
         for c in content:
             can.drawString(x_line_a, y_line+((extra_line + x)*line_diff), c["label"])
             can.drawString(x_line_b, y_line+((extra_line + x)*line_diff), str(key))
@@ -344,8 +363,6 @@ def generate_invoice(modeladmin, request, queryset, is_custom=False):
                 
                 pages += 1
                 is_saved = True
-            else:
-                is_saved = False
         
         if not is_saved:
             multi = save_page(packet, can, "{}{}{}.pdf".format(FOLDER, key, "--{}".format(pages) if pages > 1 else ""), pages)
@@ -449,6 +466,10 @@ def generate_invoice(modeladmin, request, queryset, is_custom=False):
     outputStream = open("{}SummaryPage.pdf".format(FOLDER), "wb")
     output.write(outputStream)
     outputStream.close()
+    
+    # Create a Zip of All the files
+    zip = shutil.make_archive("All", 'zip', FOLDER)
+    shutil.move(zip, "{}/{}.zip".format(FOLDER, "All"))
 
 generate_invoice.short_description = 'Generate Invoice'
 

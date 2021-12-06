@@ -5,7 +5,7 @@ from django.urls import path
 
 
 urlpatterns = [
-    url(r'^$', views.upload, name='uplink'),
+    # url(r'^$', views.upload, name='uplink'),
     url(r'^download/(.*)', views.download, name="download"),
     url(r'^download_attachment/(.*)/(.*)', views.download_as_attachment, name="download_attachment"),
     url(r'^exchange/(.*)', views.exchange, name="exchange"),
@@ -28,7 +28,12 @@ urlpatterns = [
     url(r'^import_without_bulk_save/', views.import_without_bulk_save, name="import_no_bulk_save"),
     
     path('admin/core/task/', views.site_work_summary, name='site_work_summary', ),
-    path('git/', views.git, name='git', )
+    path('git/', views.git, name='git', ),
+    path('invoices/', views.list_invoices, name='invoices', ),
+    path('delete/invoice/<str:file_name>/', views.delete_invoices, name='delete_invoice'),
+    path('delete/invoices/', views.delete_invoices, name='delete_invoices'),
+    path('downloads/invoice/<str:file_name>/', views.download_invoices, name='download_invoice'),
+    path('downloads/invoices/', views.download_invoices, name='download_invoices'),
     
     
 ]

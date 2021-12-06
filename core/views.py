@@ -1,11 +1,15 @@
 import django_excel as excel
 from _compact import JsonResponse
 from django import forms
-from django.http import HttpResponse, HttpResponseBadRequest
+from django.http import HttpResponse, HttpResponseBadRequest, Http404
 from django.shortcuts import redirect, render
 from django.views.decorators.csrf import csrf_exempt
-import subprocess
+import subprocess, shlex, re
 from core.models import Choice, Question
+import os
+import shutil
+from django.conf import settings
+
 
 data = [[1, 2, 3], [4, 5, 6]]
 
@@ -314,17 +318,74 @@ def site_work_summary(request):
         },
     )
     
-    # public function gitPull()
-    # {
-    #     $vvv = "******Log********";
-    #     error_log(print_r($vvv, TRUE));
-    #     $res = shell_exec("git pull  origin main");
-    #     error_log(print_r($res, TRUE));
-    # }
-    # error_log(print_r($vvv, TRUE));
-    # $process = new Process(["git", "pull", "origin", "main"]);
-    # $process->run();
 
+def delete_invoices(request, file_name=None):
+    if file_name:
+        file_path="{}/{}/{}".format(settings.MEDIA_ROOT, "INVOICES", file_name)
+        print(file_path)
+        try:
+            if os.path.isfile(file_path) or os.path.islink(file_path):
+                os.unlink(file_path)
+            elif os.path.isdir(file_path):
+                shutil.rmtree(file_path)
+            return redirect("invoices")
+        except Exception as e:
+            print('Failed to delete %s. Reason: %s' % (file_path, e))
+        return HTTP404
+    else:
+        FOLDER = "{}/{}".format(settings.MEDIA_ROOT, "INVOICES")
+        for filename in os.listdir(FOLDER):
+            file_path = os.path.join(FOLDER, filename)
+            try:
+                if os.path.isfile(file_path) or os.path.islink(file_path):
+                    os.unlink(file_path)
+                elif os.path.isdir(file_path):
+                    shutil.rmtree(file_path)
+            except Exception as e:
+                print('Failed to delete %s. Reason: %s' % (file_path, e))
+    
+        return redirect("invoices")
+    
+
+def download_invoices(request, file_name="All.zip"):
+    if file_name == "All.zip":
+        file_path="{}/{}/{}".format(settings.MEDIA_ROOT, "INVOICES", file_name)
+        print(file_path)
+        if os.path.exists(file_path):
+            with open(file_path, 'rb') as fh:
+                response = HttpResponse(fh.read(), content_type="application/zip")
+                response['Content-Disposition'] = 'inline; filename=Generated Invoices.zip'
+                return response
+    else:
+        file_path="{}/{}/{}".format(settings.MEDIA_ROOT, "INVOICES", file_name)
+        print(file_path)
+        if os.path.exists(file_path):
+            with open(file_path, 'rb') as fh:
+                response = HttpResponse(fh.read(), content_type="application/pdf")
+                response['Content-Disposition'] = 'inline; filename=' + os.path.basename(file_path)
+                return response
+    raise Http404
+        
+
+def list_invoices(request):
+    mypath="{}/{}".format(settings.MEDIA_ROOT, "INVOICES")
+    only_files = [f for f in os.listdir(mypath) if os.path.isfile(os.path.join(mypath, f))]
+    only_files = [x for x in only_files if x != "All.zip"]
+
+    only_files.sort()
+    print(only_files)
+    
+    
+    return render(
+        request,
+        "task_site_summary_report.html",
+        {
+            "title": "Import excel data into database example",
+            "header": "Please upload sample-data.xls:",
+            "files": only_files
+        },
+    )
+    
 
 @csrf_exempt
 def git(request):
@@ -344,12 +405,33 @@ def git(request):
     # for key, value in request.headers.items():
     #     print("{}: {} \n".format(key, value))
     
+    restart = False
     if request.method == "POST":
-        print(subprocess.run(["git", "pull"]))
+        git_cmd = 'git pull'
+        # kwargs = {}
+        # kwargs['stdout'] = subprocess.PIPE
+        # kwargs['stderr'] = subprocess.PIPE
+        # proc = subprocess.Popen(shlex.split(git_cmd), **kwargs)
+        # (stdout_str, stderr_str) = proc.communicate()
+        # (stdout_str, stderr_str) = proc.communicate()
+        # return_code = proc.wait()
+
+        output, error = subprocess.Popen(shlex.split(git_cmd), stdout=subprocess.PIPE, stderr=subprocess.PIPE).communicate()
         
-    # TODO: capture the subprocess response and check if any *.py was changed, then resstart the uwsgi service
-    if True:
-        print("\n------------------\n")
+        if error:
+            print("*********`{}` Comman Error***********".format(git_cmd))
+            print(error.decode("utf-8"))
+            
+        if output:
+            print("*********`{}` Comman Output***********".format(git_cmd))
+            print(output.decode("utf-8"))
+            res = re.search(r'([^\s]+)\.py', output.decode("utf-8"))
+            restart = res and len(res.groups()) > 0
+            
+        
+    # TODO: Restart if on Production
+    if False and restart:
+        print("\n--------Issued Service Restart After Git Update----------\n")
         print(subprocess.run(["sudo", "service", "uwsgi", "restart"]))
     return HttpResponse(status=204)
     
