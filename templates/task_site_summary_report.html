@@ -117,8 +117,8 @@
                                     <div class="col-lg-3 col-xl-2">
                                         <div class="file-man-box"><a href="{% url 'delete_invoice' file_name=item %}" class="file-close"  data-bs-toggle="tooltip" title="Delete this File"><i class="fa fa-times-circle"></i></a>
                                             <div class="file-img-box"><img src="{% static 'img/fileExtension/pdf.svg' %}" alt="icon"></div>
-                                            <a href="{% url 'download_invoice' file_name=item %}" class="file-download"  data-bs-toggle="tooltip" title="Download this file"><i class="fa fa-download"></i></a>
-                                            <div class="file-man-title">
+                                            <a href="{% url 'download_invoice' file_name=item %}" class="file-download"  data-bs-toggle="tooltip" title="Download this file" target="_blank"><i class="fa fa-download"></i></a>
+                                            <div class="file-man-title text-center pt-2">
                                                 <h5 class="mb-0 text-overflow">{{ item }}</h5>
                                                 {% comment %} <p class="mb-0"><small>568.8 kb</small></p> {% endcomment %}
                                             </div>

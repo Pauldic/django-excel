@@ -370,7 +370,7 @@ def download_invoices(request, file_name="All.zip"):
 def list_invoices(request):
     mypath="{}/{}".format(settings.MEDIA_ROOT, "INVOICES")
     only_files = [f for f in os.listdir(mypath) if os.path.isfile(os.path.join(mypath, f))]
-    only_files = [x for x in only_files if x != "All.zip"]
+    only_files = [x[:-4] for x in only_files if x != "All.zip"]
 
     only_files.sort()
     print(only_files)

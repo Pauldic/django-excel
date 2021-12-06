@@ -1,0 +1,18 @@
+[INFO]2021-12-06 13:23:00|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-06 13:23:01|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-06 13:23:02|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-06 13:23:08|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-06 13:23:13|django.server|"GET /core/invoices/ HTTP/1.1" 200 30609
+[INFO]2021-12-06 13:23:25|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-06 13:24:06|django.server|"GET /core/invoices/ HTTP/1.1" 200 30921
+[INFO]2021-12-06 13:24:07|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-06 13:24:07|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-06 13:24:07|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-06 13:24:07|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-06 13:24:07|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
+[INFO]2021-12-06 13:24:59|django.server|"GET /core/invoices/ HTTP/1.1" 200 31051
+[INFO]2021-12-06 13:24:59|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-06 13:24:59|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-06 13:24:59|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-06 13:24:59|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
+[INFO]2021-12-06 13:24:59|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
