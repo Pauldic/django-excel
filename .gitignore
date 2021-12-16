@@ -1,4 +1,6 @@
 media/*
+static/*
 .env
 venv
 db.sqlite3
+mysite.log
