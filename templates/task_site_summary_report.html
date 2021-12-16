@@ -87,14 +87,16 @@
     <h1>{{ sites }}</h1>
 
     <div class="d-flex flex-column flex-md-row align-items-center p-3 px-md-4 mb-3 bg-white border-bottom box-shadow">
-        <h2 class="my-0 mr-md-auto font-weight-normal">Creablo Tool</h2>
+        <h2 class="my-0 mr-md-auto font-weight-normal"><a href="{% url 'home' %}" >Creablo Tool</a></h2>
         <nav class="my-2 my-md-0 mr-md-3">
           {% comment %} <a class="p-2 text-dark" href="#">Features</a>
           <a class="p-2 text-dark" href="#">Enterprise</a>
           <a class="p-2 text-dark" href="#">Support</a>
           <a class="p-2 text-dark" href="#">Pricing</a> {% endcomment %}
         </nav>
-        <a class="btn btn-outline-primary" href="/admin/core/task/">Admin Home</a>
+        <a class="btn btn-outline-primary mr-3" href="/core/templates/">Templates</a>
+        <a class="btn btn-outline-primary mr-3" href="/admin/core/task/">Admin Home</a>
+        <a class="btn btn-outline-primary" href="{% url 'logout' %}">Logout</a>
     </div>
   
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">

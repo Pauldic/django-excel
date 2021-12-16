@@ -4,11 +4,15 @@ from django import forms
 from django.http import HttpResponse, HttpResponseBadRequest, Http404
 from django.shortcuts import redirect, render
 from django.views.decorators.csrf import csrf_exempt
+from django.contrib import messages
 import subprocess, shlex, re
 from core.models import Choice, Question
 import os
 import shutil
 from django.conf import settings
+from django.core.files.storage import FileSystemStorage
+from django.contrib.auth.decorators import login_required
+from django.contrib.auth import logout
 
 
 data = [[1, 2, 3], [4, 5, 6]]
@@ -319,9 +323,10 @@ def site_work_summary(request):
     )
     
 
+@login_required
 def delete_invoices(request, file_name=None):
     if file_name:
-        file_path="{}/{}/{}".format(settings.MEDIA_ROOT, "INVOICES", file_name)
+        file_path="{}/{}/{}.pdf".format(settings.MEDIA_ROOT, "INVOICES", file_name)
         print(file_path)
         try:
             if os.path.isfile(file_path) or os.path.islink(file_path):
@@ -331,7 +336,7 @@ def delete_invoices(request, file_name=None):
             return redirect("invoices")
         except Exception as e:
             print('Failed to delete %s. Reason: %s' % (file_path, e))
-        return HTTP404
+        raise Http404("File not Found")
     else:
         FOLDER = "{}/{}".format(settings.MEDIA_ROOT, "INVOICES")
         for filename in os.listdir(FOLDER):
@@ -347,6 +352,7 @@ def delete_invoices(request, file_name=None):
         return redirect("invoices")
     
 
+@login_required
 def download_invoices(request, file_name="All.zip"):
     if file_name == "All.zip":
         file_path="{}/{}/{}".format(settings.MEDIA_ROOT, "INVOICES", file_name)
@@ -357,16 +363,17 @@ def download_invoices(request, file_name="All.zip"):
                 response['Content-Disposition'] = 'inline; filename=Generated Invoices.zip'
                 return response
     else:
-        file_path="{}/{}/{}".format(settings.MEDIA_ROOT, "INVOICES", file_name)
+        file_path="{}/{}/{}.pdf".format(settings.MEDIA_ROOT, "INVOICES", file_name)
         print(file_path)
         if os.path.exists(file_path):
             with open(file_path, 'rb') as fh:
                 response = HttpResponse(fh.read(), content_type="application/pdf")
                 response['Content-Disposition'] = 'inline; filename=' + os.path.basename(file_path)
                 return response
-    raise Http404
+    raise Http404("File not Found")
         
 
+@login_required
 def list_invoices(request):
     mypath="{}/{}".format(settings.MEDIA_ROOT, "INVOICES")
     only_files = [f for f in os.listdir(mypath) if os.path.isfile(os.path.join(mypath, f))]
@@ -379,12 +386,63 @@ def list_invoices(request):
     return render(
         request,
         "task_site_summary_report.html",
+        # "upload_form.html",
         {
-            "title": "Import excel data into database example",
-            "header": "Please upload sample-data.xls:",
+            "title": "Creablo SuperTool",
+            "header": "Creablo",
             "files": only_files
         },
     )
+    
+      
+
+@login_required
+def templates_list(request, file_name=None):
+    if file_name is not None and file_name not in ["SummaryPageTemplate.pdf", "InvoiceTemplate.pdf"]:
+        raise Http404("File not Found")
+    
+    file_path = "{}/{}/{}".format(settings.MEDIA_ROOT, "TEMPLATES", file_name)
+    print(file_path)
+    if file_name and os.path.exists(file_path):
+        with open(file_path, 'rb') as fh:
+            response = HttpResponse(fh.read(), content_type="application/pdf")
+            response['Content-Disposition'] = 'inline; filename=' + os.path.basename(file_path)
+            return response
+            
+    mypath="{}/{}".format(settings.MEDIA_ROOT, "TEMPLATES")
+    only_files = [f for f in os.listdir(mypath) if os.path.isfile(os.path.join(mypath, f))]
+    
+    return render(
+        request,
+        "template_list.html",
+        {
+            "title": "Creablo SuperTool",
+            "header": "Creablo",
+            "files": only_files
+        },
+    )
+      
+      
+@login_required
+def templates_upload(request, file_name):
+    helo =file_name
+    if file_name in ["SummaryPageTemplate.pdf", "InvoiceTemplate.pdf"]:
+        if request.method == 'POST' and request.FILES['template'] and request.POST.get('name') in ["SummaryPageTemplate", "InvoiceTemplate"]:
+            myfile = request.FILES['template']
+            fs = FileSystemStorage()
+            filename = request.POST.get('name')
+            file_path = "{}/{}/{}.pdf".format(settings.MEDIA_ROOT, "TEMPLATES", filename)
+            if os.path.isfile(file_path) or os.path.islink(file_path):
+                os.unlink(file_path)
+            saved = fs.save(file_path, myfile)
+            # uploaded_file_url = fs.url(filename)
+            messages.success(request, 'File Uploaded Successfully!!!')
+            return redirect('templates' )
+        return render(request, 'upload_form.html', {"name": file_name[:-4]})
+    else:
+        raise Http404("Page not Found")
+
+
     
 
 @csrf_exempt
@@ -435,3 +493,7 @@ def git(request):
         print(subprocess.run(["sudo", "service", "uwsgi", "restart"]))
     return HttpResponse(status=204)
     
+
+def logout_view(request):
+    logout(request)
+    return redirect('/admin')

@@ -40,6 +40,8 @@ MANAGERS = ADMINS
 
 # APPEND_SLASH = True
 # ADMIN_URL = 'access/'
+LOGIN_URL = '/admin/'
+LOGOUT_URL = '/admin/'
 # LOGIN_URL = 'account:login'
 # LOGOUT_URL = 'account:logout'
 # LOGIN_REDIRECT_URL = 'core:dashboard'

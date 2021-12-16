@@ -16,3 +16,1777 @@
 [INFO]2021-12-06 13:24:59|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
 [INFO]2021-12-06 13:24:59|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
 [INFO]2021-12-06 13:24:59|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-06 13:28:06|django.server|"GET /core/invoices/ HTTP/1.1" 200 31051
+[INFO]2021-12-06 13:28:06|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-06 13:28:06|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-06 13:28:06|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-06 13:28:06|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-06 13:28:06|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
+[INFO]2021-12-06 23:06:39|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-06 23:06:41|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-06 23:06:45|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-06 23:06:47|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-06 23:06:49|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-06 23:06:51|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-06 23:07:26|django.server|"GET / HTTP/1.1" 200 698601
+[WARNING]2021-12-06 23:07:27|django.request|Not Found: /s/player/8040e515/player_ias.vflset/en_US/base.js
+[WARNING]2021-12-06 23:07:27|django.request|Not Found: /s/player/8040e515/player_ias.vflset/en_US/base.js
+[WARNING]2021-12-06 23:07:27|django.server|"GET /s/player/8040e515/player_ias.vflset/en_US/base.js HTTP/1.1" 404 2433
+[WARNING]2021-12-06 23:07:27|django.request|Not Found: /s/player/8040e515/player_ias.vflset/en_US/base.js
+[WARNING]2021-12-06 23:07:27|django.request|Not Found: /s/player/8040e515/player_ias.vflset/en_US/base.js
+[WARNING]2021-12-06 23:07:27|django.server|"GET /s/player/8040e515/player_ias.vflset/en_US/base.js HTTP/1.1" 404 2433
+[INFO]2021-12-06 23:07:46|django.server|"GET / HTTP/1.1" 200 698601
+[WARNING]2021-12-06 23:07:46|django.request|Not Found: /s/player/8040e515/player_ias.vflset/en_US/base.js
+[WARNING]2021-12-06 23:07:46|django.request|Not Found: /s/player/8040e515/player_ias.vflset/en_US/base.js
+[WARNING]2021-12-06 23:07:46|django.server|"GET /s/player/8040e515/player_ias.vflset/en_US/base.js HTTP/1.1" 404 2433
+[WARNING]2021-12-06 23:07:46|django.request|Not Found: /s/player/8040e515/player_ias.vflset/en_US/base.js
+[WARNING]2021-12-06 23:07:46|django.request|Not Found: /s/player/8040e515/player_ias.vflset/en_US/base.js
+[WARNING]2021-12-06 23:07:46|django.server|"GET /s/player/8040e515/player_ias.vflset/en_US/base.js HTTP/1.1" 404 2433
+[INFO]2021-12-16 11:47:09|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 11:47:45|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 11:48:35|django.server|"GET / HTTP/1.1" 200 454
+[WARNING]2021-12-16 11:48:35|django.request|Not Found: /favicon.ico
+[WARNING]2021-12-16 11:48:35|django.request|Not Found: /favicon.ico
+[WARNING]2021-12-16 11:48:35|django.server|"GET /favicon.ico HTTP/1.1" 404 2319
+[INFO]2021-12-16 11:48:46|django.server|"GET /admin/core/task/ HTTP/1.1" 200 338400
+[INFO]2021-12-16 11:48:46|django.server|"GET /static/admin/css/changelists.css HTTP/1.1" 200 6874
+[INFO]2021-12-16 11:48:46|django.server|"GET /static/admin/js/core.js HTTP/1.1" 200 5698
+[INFO]2021-12-16 11:48:46|django.server|"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 287630
+[INFO]2021-12-16 11:48:46|django.server|"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 5984
+[INFO]2021-12-16 11:48:46|django.server|"GET /static/admin/js/urlify.js HTTP/1.1" 200 7902
+[INFO]2021-12-16 11:48:46|django.server|"GET /static/admin/css/responsive.css HTTP/1.1" 200 18545
+[INFO]2021-12-16 11:48:46|django.server|"GET /static/admin/js/actions.js HTTP/1.1" 200 7664
+[INFO]2021-12-16 11:48:46|django.server|"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+[INFO]2021-12-16 11:48:46|django.server|"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+[INFO]2021-12-16 11:48:46|django.server|"GET /static/admin/css/base.css HTTP/1.1" 200 19513
+[INFO]2021-12-16 11:48:47|django.server|"GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+[INFO]2021-12-16 11:48:47|django.server|"GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+[INFO]2021-12-16 11:48:47|django.server|"GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+[INFO]2021-12-16 11:48:59|django.server|"GET / HTTP/1.1" 200 454
+[INFO]2021-12-16 11:49:17|django.server|"GET / HTTP/1.1" 200 454
+[INFO]2021-12-16 11:55:23|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 11:55:26|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 11:55:32|django.server|"GET / HTTP/1.1" 200 31051
+[INFO]2021-12-16 11:55:33|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 11:55:33|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 11:55:33|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 11:55:33|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 304 0
+[INFO]2021-12-16 11:55:42|django.server|"GET /core/delete/invoice/03.11.2021/ HTTP/1.1" 302 0
+[INFO]2021-12-16 11:55:42|django.server|"GET /core/invoices/ HTTP/1.1" 200 31051
+[INFO]2021-12-16 11:55:46|django.server|"GET /core/delete/invoice/03.11.2021/ HTTP/1.1" 302 0
+[INFO]2021-12-16 11:55:46|django.server|"GET /core/invoices/ HTTP/1.1" 200 31051
+[INFO]2021-12-16 11:55:50|django.server|"GET /core/delete/invoice/03.11.2021/ HTTP/1.1" 302 0
+[INFO]2021-12-16 11:55:50|django.server|"GET /core/invoices/ HTTP/1.1" 200 31051
+[INFO]2021-12-16 11:55:55|django.server|"GET /core/delete/invoice/03.11.2021/ HTTP/1.1" 302 0
+[INFO]2021-12-16 11:55:55|django.server|"GET /core/invoices/ HTTP/1.1" 200 31051
+[INFO]2021-12-16 11:56:11|django.server|"GET /core/invoices/ HTTP/1.1" 200 31051
+[INFO]2021-12-16 11:56:15|django.server|"GET /core/delete/invoices/ HTTP/1.1" 302 0
+[INFO]2021-12-16 11:56:15|django.server|"GET /core/invoices/ HTTP/1.1" 200 3338
+[INFO]2021-12-16 11:56:18|django.server|"GET /admin/core/task/ HTTP/1.1" 200 338400
+[INFO]2021-12-16 11:56:18|django.server|"GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+[INFO]2021-12-16 11:56:18|django.server|"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+[INFO]2021-12-16 11:56:18|django.server|"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[INFO]2021-12-16 11:56:18|django.server|"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[INFO]2021-12-16 11:56:18|django.server|"GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[INFO]2021-12-16 11:56:18|django.server|"GET /static/admin/js/core.js HTTP/1.1" 304 0
+[INFO]2021-12-16 11:56:18|django.server|"GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[INFO]2021-12-16 11:56:18|django.server|"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+[INFO]2021-12-16 11:56:18|django.server|"GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[INFO]2021-12-16 11:56:18|django.server|"GET /static/admin/css/base.css HTTP/1.1" 304 0
+[INFO]2021-12-16 11:56:18|django.server|"GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[INFO]2021-12-16 11:56:18|django.server|"GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[INFO]2021-12-16 11:56:18|django.server|"GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[INFO]2021-12-16 11:57:47|django.server|"POST /admin/core/task/ HTTP/1.1" 302 0
+[INFO]2021-12-16 11:57:49|django.server|"GET /admin/core/task/ HTTP/1.1" 200 338400
+[INFO]2021-12-16 11:57:49|django.server|"GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+[INFO]2021-12-16 11:57:49|django.server|"GET /static/admin/js/core.js HTTP/1.1" 304 0
+[INFO]2021-12-16 11:57:49|django.server|"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[INFO]2021-12-16 11:57:49|django.server|"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[INFO]2021-12-16 11:57:49|django.server|"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+[INFO]2021-12-16 11:57:49|django.server|"GET /static/admin/css/base.css HTTP/1.1" 304 0
+[INFO]2021-12-16 11:57:49|django.server|"GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[INFO]2021-12-16 11:57:49|django.server|"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+[INFO]2021-12-16 11:57:49|django.server|"GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[INFO]2021-12-16 11:57:49|django.server|"GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[INFO]2021-12-16 11:57:50|django.server|"GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[INFO]2021-12-16 11:57:50|django.server|"GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[INFO]2021-12-16 11:57:50|django.server|"GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[INFO]2021-12-16 11:58:52|django.server|"GET / HTTP/1.1" 200 30023
+[INFO]2021-12-16 11:58:59|django.server|"GET /core/delete/invoice/04.11.2021/ HTTP/1.1" 302 0
+[INFO]2021-12-16 11:58:59|django.server|"GET /core/invoices/ HTTP/1.1" 200 30023
+[WARNING]2021-12-16 11:59:16|django.request|Not Found: /core/downloads/invoice/04.11.2021/
+[WARNING]2021-12-16 11:59:16|django.request|Not Found: /core/downloads/invoice/04.11.2021/
+[WARNING]2021-12-16 11:59:16|django.server|"GET /core/downloads/invoice/04.11.2021/ HTTP/1.1" 404 6197
+[WARNING]2021-12-16 12:01:34|django.request|Not Found: /core/downloads/invoice/04.11.2021/
+[WARNING]2021-12-16 12:01:34|django.request|Not Found: /core/downloads/invoice/04.11.2021/
+[WARNING]2021-12-16 12:01:34|django.server|"GET /core/downloads/invoice/04.11.2021/ HTTP/1.1" 404 6197
+[WARNING]2021-12-16 12:08:40|django.request|Not Found: /core/downloads/invoice/04.11.2021/
+[WARNING]2021-12-16 12:08:40|django.request|Not Found: /core/downloads/invoice/04.11.2021/
+[WARNING]2021-12-16 12:08:40|django.server|"GET /core/downloads/invoice/04.11.2021/ HTTP/1.1" 404 6197
+[INFO]2021-12-16 12:26:55|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 12:27:01|django.server|"GET / HTTP/1.1" 200 30023
+[INFO]2021-12-16 12:27:03|django.server|"GET /core/downloads/invoice/04.11.2021/ HTTP/1.1" 200 2442223
+[INFO]2021-12-16 12:27:48|django.server|"GET /core/downloads/invoices/ HTTP/1.1" 200 23721580
+[INFO]2021-12-16 12:28:07|django.server|"GET /core/delete/invoice/26.11.2021/ HTTP/1.1" 302 0
+[INFO]2021-12-16 12:28:07|django.server|"GET /core/invoices/ HTTP/1.1" 200 30023
+[INFO]2021-12-16 12:28:11|django.server|"GET /core/delete/invoice/26.11.2021/ HTTP/1.1" 302 0
+[INFO]2021-12-16 12:28:11|django.server|"GET /core/invoices/ HTTP/1.1" 200 30023
+[INFO]2021-12-16 12:28:42|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 12:28:45|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 12:28:52|django.server|"GET /core/delete/invoice/18.11.2021/ HTTP/1.1" 302 0
+[INFO]2021-12-16 12:28:52|django.server|"GET /core/invoices/ HTTP/1.1" 200 28980
+[INFO]2021-12-16 12:28:55|django.server|"GET /core/delete/invoice/27.11.2021/ HTTP/1.1" 302 0
+[INFO]2021-12-16 12:28:55|django.server|"GET /core/invoices/ HTTP/1.1" 200 27937
+[INFO]2021-12-16 12:29:34|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 12:29:36|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 12:32:57|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 12:32:58|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 12:34:24|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 12:34:27|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 12:34:35|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 12:34:36|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 12:34:40|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 12:34:41|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 12:34:50|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 12:34:51|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 12:35:28|django.server|"GET /core/invoices/ HTTP/1.1" 200 28018
+[INFO]2021-12-16 12:35:39|django.server|"GET /core/invoices/ HTTP/1.1" 200 28023
+[INFO]2021-12-16 12:35:49|django.server|"GET /core/invoices/ HTTP/1.1" 200 28023
+[INFO]2021-12-16 12:36:45|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 12:36:48|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 12:39:08|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/admin.py changed, reloading.
+[INFO]2021-12-16 12:39:11|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 12:39:41|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/admin.py changed, reloading.
+[INFO]2021-12-16 12:39:43|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 12:45:49|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/admin.py changed, reloading.
+[INFO]2021-12-16 12:45:50|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 12:45:53|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/admin.py changed, reloading.
+[INFO]2021-12-16 12:45:54|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 12:46:47|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/admin.py changed, reloading.
+[INFO]2021-12-16 12:46:49|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 12:46:50|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/admin.py changed, reloading.
+[INFO]2021-12-16 12:46:53|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 12:47:33|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/admin.py changed, reloading.
+[INFO]2021-12-16 12:47:35|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 12:47:38|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/admin.py changed, reloading.
+[INFO]2021-12-16 12:47:39|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 12:47:43|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/admin.py changed, reloading.
+[INFO]2021-12-16 12:47:45|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 12:48:34|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/admin.py changed, reloading.
+[INFO]2021-12-16 12:48:37|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 12:48:42|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/admin.py changed, reloading.
+[INFO]2021-12-16 12:48:44|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 12:48:47|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/admin.py changed, reloading.
+[INFO]2021-12-16 12:48:49|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 12:48:53|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/admin.py changed, reloading.
+[INFO]2021-12-16 12:48:54|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 12:49:00|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/admin.py changed, reloading.
+[INFO]2021-12-16 12:49:02|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 12:49:15|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/admin.py changed, reloading.
+[INFO]2021-12-16 12:49:18|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 12:52:00|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/admin.py changed, reloading.
+[INFO]2021-12-16 12:52:03|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 12:52:33|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/admin.py changed, reloading.
+[INFO]2021-12-16 12:52:37|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 12:53:39|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/admin.py changed, reloading.
+[INFO]2021-12-16 12:53:42|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 12:53:47|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/admin.py changed, reloading.
+[INFO]2021-12-16 12:53:50|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 12:54:09|django.server|"GET /core/delete/invoices/ HTTP/1.1" 302 0
+[INFO]2021-12-16 12:54:09|django.server|"GET /core/invoices/ HTTP/1.1" 200 3424
+[INFO]2021-12-16 12:54:30|django.server|"GET /admin/core/task/ HTTP/1.1" 200 338400
+[INFO]2021-12-16 12:54:30|django.server|"GET /static/admin/css/base.css HTTP/1.1" 304 0
+[INFO]2021-12-16 12:54:30|django.server|"GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+[INFO]2021-12-16 12:54:30|django.server|"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[INFO]2021-12-16 12:54:30|django.server|"GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[INFO]2021-12-16 12:54:30|django.server|"GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[INFO]2021-12-16 12:54:30|django.server|"GET /static/admin/js/core.js HTTP/1.1" 304 0
+[INFO]2021-12-16 12:54:30|django.server|"GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[INFO]2021-12-16 12:54:30|django.server|"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[INFO]2021-12-16 12:54:30|django.server|"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+[INFO]2021-12-16 12:54:30|django.server|"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+[INFO]2021-12-16 12:54:30|django.server|"GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[INFO]2021-12-16 12:54:30|django.server|"GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[INFO]2021-12-16 12:54:30|django.server|"GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[INFO]2021-12-16 12:55:31|django.server|"POST /admin/core/task/ HTTP/1.1" 302 0
+[INFO]2021-12-16 12:55:32|django.server|"GET /admin/core/task/ HTTP/1.1" 200 338400
+[INFO]2021-12-16 12:55:32|django.server|"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+[INFO]2021-12-16 12:58:11|django.server|"GET /core/invoices/ HTTP/1.1" 200 29063
+[INFO]2021-12-16 12:58:48|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/admin.py changed, reloading.
+[INFO]2021-12-16 12:58:50|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 12:59:45|django.server|"GET /core/delete/invoices/ HTTP/1.1" 302 0
+[INFO]2021-12-16 12:59:46|django.server|"GET /core/invoices/ HTTP/1.1" 200 3424
+[INFO]2021-12-16 13:11:56|django.server|"POST /admin/core/task/ HTTP/1.1" 302 0
+[INFO]2021-12-16 13:11:59|django.server|"GET /admin/core/task/ HTTP/1.1" 200 338400
+[INFO]2021-12-16 13:11:59|django.server|"GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[INFO]2021-12-16 13:11:59|django.server|"GET /static/admin/css/base.css HTTP/1.1" 304 0
+[INFO]2021-12-16 13:11:59|django.server|"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[INFO]2021-12-16 13:11:59|django.server|"GET /static/admin/js/core.js HTTP/1.1" 304 0
+[INFO]2021-12-16 13:11:59|django.server|"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[INFO]2021-12-16 13:11:59|django.server|"GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[INFO]2021-12-16 13:11:59|django.server|"GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+[INFO]2021-12-16 13:11:59|django.server|"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+[INFO]2021-12-16 13:11:59|django.server|"GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[INFO]2021-12-16 13:11:59|django.server|"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+[INFO]2021-12-16 13:12:00|django.server|"GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[INFO]2021-12-16 13:12:00|django.server|"GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[INFO]2021-12-16 13:12:00|django.server|"GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[INFO]2021-12-16 13:12:25|django.server|"GET /core/invoices/ HTTP/1.1" 200 30109
+[INFO]2021-12-16 13:12:28|django.server|"GET /core/delete/invoice/SummaryPage/ HTTP/1.1" 302 0
+[INFO]2021-12-16 13:12:28|django.server|"GET /core/invoices/ HTTP/1.1" 200 29063
+[INFO]2021-12-16 13:12:32|django.server|"GET /core/delete/invoices/ HTTP/1.1" 302 0
+[INFO]2021-12-16 13:12:32|django.server|"GET /core/invoices/ HTTP/1.1" 200 3424
+[INFO]2021-12-16 13:13:38|django.server|"GET /core/invoices/ HTTP/1.1" 200 10288
+[INFO]2021-12-16 13:16:07|django.server|"GET /core/invoices/ HTTP/1.1" 200 20821
+[INFO]2021-12-16 13:17:47|django.server|"POST /admin/core/task/ HTTP/1.1" 302 0
+[INFO]2021-12-16 13:17:53|django.server|"GET /admin/core/task/ HTTP/1.1" 200 338400
+[INFO]2021-12-16 13:17:53|django.server|"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+[INFO]2021-12-16 13:25:35|django.server|"GET /admin/core/task/ HTTP/1.1" 200 338400
+[INFO]2021-12-16 13:25:35|django.server|"GET /static/admin/css/base.css HTTP/1.1" 304 0
+[INFO]2021-12-16 13:25:35|django.server|"GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[INFO]2021-12-16 13:25:35|django.server|"GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[INFO]2021-12-16 13:25:35|django.server|"GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[INFO]2021-12-16 13:25:35|django.server|"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+[INFO]2021-12-16 13:25:35|django.server|"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[INFO]2021-12-16 13:25:35|django.server|"GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+[INFO]2021-12-16 13:25:35|django.server|"GET /static/admin/js/core.js HTTP/1.1" 304 0
+[INFO]2021-12-16 13:25:35|django.server|"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[INFO]2021-12-16 13:25:35|django.server|"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+[INFO]2021-12-16 13:25:35|django.server|"GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[INFO]2021-12-16 13:25:35|django.server|"GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[INFO]2021-12-16 13:25:35|django.server|"GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[INFO]2021-12-16 13:25:38|django.server|"GET /core/invoices/ HTTP/1.1" 200 30223
+[WARNING]2021-12-16 13:25:40|django.request|Not Found: /core/template/invoice/
+[WARNING]2021-12-16 13:25:40|django.request|Not Found: /core/template/invoice/
+[WARNING]2021-12-16 13:25:40|django.server|"GET /core/template/invoice/ HTTP/1.1" 404 6262
+[INFO]2021-12-16 13:26:37|django.utils.autoreload|Watching for file changes with StatReloader
+[ERROR]2021-12-16 13:26:43|django.request|Internal Server Error: /core/template/invoice/
+Traceback (most recent call last):
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/paullo/codes/python/freelancer/django-excel/core/views.py", line 394, in upload_invoice_template
+    file_path="{}/{}/{}.pdf".format(settings.MEDIA_ROOT, "INVOICES", file_name)
+NameError: name 'file_name' is not defined
+[ERROR]2021-12-16 13:26:43|django.request|Internal Server Error: /core/template/invoice/
+Traceback (most recent call last):
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/paullo/codes/python/freelancer/django-excel/core/views.py", line 394, in upload_invoice_template
+    file_path="{}/{}/{}.pdf".format(settings.MEDIA_ROOT, "INVOICES", file_name)
+NameError: name 'file_name' is not defined
+[ERROR]2021-12-16 13:26:43|django.server|"GET /core/template/invoice/ HTTP/1.1" 500 68606
+[INFO]2021-12-16 13:27:01|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 13:27:03|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 13:27:07|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 13:27:09|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 13:27:12|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 13:27:14|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 13:27:20|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 13:47:25|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 13:47:31|django.server|"GET /core/template/invoice/ HTTP/1.1" 200 385
+[INFO]2021-12-16 13:49:30|django.server|"GET /core/template/invoice/ HTTP/1.1" 200 3625
+[INFO]2021-12-16 13:53:33|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 13:53:35|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 13:53:41|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 13:53:42|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 13:53:52|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 13:53:54|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 13:53:57|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 13:53:59|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 13:54:03|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 13:54:05|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 13:54:09|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 13:54:11|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:01:34|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 14:01:36|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:02:18|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 14:02:20|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:02:32|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 14:02:34|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:05:12|django.server|"GET /core/template/invoice/ HTTP/1.1" 200 3896
+[WARNING]2021-12-16 14:05:13|django.request|Not Found: /media/TEMPLATES/InvoiceTemplate.pdf
+[WARNING]2021-12-16 14:05:13|django.request|Not Found: /media/TEMPLATES/InvoiceTemplate.pdf
+[WARNING]2021-12-16 14:05:13|django.server|"GET /media/TEMPLATES/InvoiceTemplate.pdf HTTP/1.1" 404 2391
+[WARNING]2021-12-16 14:05:17|django.request|Not Found: /media/TEMPLATES/InvoiceTemplate.pdf
+[WARNING]2021-12-16 14:05:17|django.request|Not Found: /media/TEMPLATES/InvoiceTemplate.pdf
+[WARNING]2021-12-16 14:05:17|django.server|"GET /media/TEMPLATES/InvoiceTemplate.pdf HTTP/1.1" 404 2391
+[INFO]2021-12-16 14:05:26|django.server|"GET / HTTP/1.1" 200 30223
+[INFO]2021-12-16 14:05:29|django.server|"GET /core/downloads/invoice/04.11.2021/ HTTP/1.1" 200 2442223
+[WARNING]2021-12-16 14:06:40|django.request|Not Found: /media/TEMPLATES/InvoiceTemplate.pdf
+[WARNING]2021-12-16 14:06:40|django.request|Not Found: /media/TEMPLATES/InvoiceTemplate.pdf
+[WARNING]2021-12-16 14:06:40|django.server|"GET /media/TEMPLATES/InvoiceTemplate.pdf HTTP/1.1" 404 2391
+[INFO]2021-12-16 14:06:54|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:07:00|django.server|"GET /core/template/invoice/ HTTP/1.1" 200 3896
+[WARNING]2021-12-16 14:07:00|django.request|Not Found: /media/TEMPLATES/InvoiceTemplate.pdf
+[WARNING]2021-12-16 14:07:00|django.request|Not Found: /media/TEMPLATES/InvoiceTemplate.pdf
+[WARNING]2021-12-16 14:07:00|django.server|"GET /media/TEMPLATES/InvoiceTemplate.pdf HTTP/1.1" 404 2391
+[WARNING]2021-12-16 14:07:02|django.request|Not Found: /media/TEMPLATES/InvoiceTemplate.pdf
+[WARNING]2021-12-16 14:07:02|django.request|Not Found: /media/TEMPLATES/InvoiceTemplate.pdf
+[WARNING]2021-12-16 14:07:02|django.server|"GET /media/TEMPLATES/InvoiceTemplate.pdf HTTP/1.1" 404 2391
+[WARNING]2021-12-16 14:07:09|django.request|Not Found: /media/TEMPLATES/InvoiceTemplate.pdf
+[WARNING]2021-12-16 14:07:09|django.request|Not Found: /media/TEMPLATES/InvoiceTemplate.pdf
+[WARNING]2021-12-16 14:07:09|django.server|"GET /media/TEMPLATES/InvoiceTemplate.pdf HTTP/1.1" 404 2391
+[INFO]2021-12-16 14:08:52|django.server|"GET /core/template/invoice/ HTTP/1.1" 200 3882
+[WARNING]2021-12-16 14:08:52|django.request|Not Found: /core/template/invoice/TEMPLATES/InvoiceTemplate.pdf
+[WARNING]2021-12-16 14:08:52|django.request|Not Found: /core/template/invoice/TEMPLATES/InvoiceTemplate.pdf
+[WARNING]2021-12-16 14:08:52|django.server|"GET /core/template/invoice/TEMPLATES/InvoiceTemplate.pdf HTTP/1.1" 404 6739
+[INFO]2021-12-16 14:08:53|django.server|"GET /core/template/invoice/ HTTP/1.1" 200 3882
+[WARNING]2021-12-16 14:08:53|django.request|Not Found: /core/template/invoice/TEMPLATES/InvoiceTemplate.pdf
+[WARNING]2021-12-16 14:08:53|django.request|Not Found: /core/template/invoice/TEMPLATES/InvoiceTemplate.pdf
+[WARNING]2021-12-16 14:08:53|django.server|"GET /core/template/invoice/TEMPLATES/InvoiceTemplate.pdf HTTP/1.1" 404 6739
+[WARNING]2021-12-16 14:08:55|django.request|Not Found: /core/template/invoice/TEMPLATES/InvoiceTemplate.pdf
+[WARNING]2021-12-16 14:08:55|django.request|Not Found: /core/template/invoice/TEMPLATES/InvoiceTemplate.pdf
+[WARNING]2021-12-16 14:08:55|django.server|"GET /core/template/invoice/TEMPLATES/InvoiceTemplate.pdf HTTP/1.1" 404 6739
+[WARNING]2021-12-16 14:09:04|django.request|Not Found: /core/template/invoice/TEMPLATES/InvoiceTemplate.pdf
+[WARNING]2021-12-16 14:09:04|django.request|Not Found: /core/template/invoice/TEMPLATES/InvoiceTemplate.pdf
+[WARNING]2021-12-16 14:09:04|django.server|"GET /core/template/invoice/TEMPLATES/InvoiceTemplate.pdf HTTP/1.1" 404 6739
+[WARNING]2021-12-16 14:09:06|django.request|Not Found: /core/template/invoice/TEMPLATES/InvoiceTemplate.pdf
+[WARNING]2021-12-16 14:09:06|django.request|Not Found: /core/template/invoice/TEMPLATES/InvoiceTemplate.pdf
+[WARNING]2021-12-16 14:09:06|django.server|"GET /core/template/invoice/TEMPLATES/InvoiceTemplate.pdf HTTP/1.1" 404 6739
+[WARNING]2021-12-16 14:09:08|django.request|Not Found: /core/template/invoice/TEMPLATES/InvoiceTemplate.pdf
+[WARNING]2021-12-16 14:09:08|django.request|Not Found: /core/template/invoice/TEMPLATES/InvoiceTemplate.pdf
+[WARNING]2021-12-16 14:09:08|django.server|"GET /core/template/invoice/TEMPLATES/InvoiceTemplate.pdf HTTP/1.1" 404 6739
+[INFO]2021-12-16 14:11:23|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/mysite/urls.py changed, reloading.
+[INFO]2021-12-16 14:11:25|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:11:27|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/mysite/urls.py changed, reloading.
+[INFO]2021-12-16 14:11:29|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:11:38|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/mysite/urls.py changed, reloading.
+[INFO]2021-12-16 14:11:40|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:12:13|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/mysite/urls.py changed, reloading.
+[INFO]2021-12-16 14:12:15|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:13:15|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/mysite/urls.py changed, reloading.
+[INFO]2021-12-16 14:13:17|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:16:10|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:16:15|django.server|"GET /core/invoices/ HTTP/1.1" 200 30223
+[INFO]2021-12-16 14:16:20|django.server|"GET /core/template/invoice/ HTTP/1.1" 200 3896
+[INFO]2021-12-16 14:16:23|django.server|- Broken pipe from ('127.0.0.1', 62841)
+
+[INFO]2021-12-16 14:16:24|django.server|"GET /media/TEMPLATES/InvoiceTemplate.pdf HTTP/1.1" 200 3208844
+[INFO]2021-12-16 14:16:43|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 14:17:28|django.server|- Broken pipe from ('127.0.0.1', 62843)
+
+[INFO]2021-12-16 14:17:28|django.server|"GET /core/template/invoice/ HTTP/1.1" 200 3884
+[INFO]2021-12-16 14:17:28|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 14:17:28|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 14:17:28|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 14:17:29|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 14:18:33|django.server|- Broken pipe from ('127.0.0.1', 63061)
+
+[INFO]2021-12-16 14:18:33|django.server|"GET /core/template/invoice/ HTTP/1.1" 200 3780
+[INFO]2021-12-16 14:18:33|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 14:18:33|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 14:18:33|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 14:18:34|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 14:18:42|django.server|- Broken pipe from ('127.0.0.1', 63350)
+
+[INFO]2021-12-16 14:18:42|django.server|"GET /core/template/invoice/ HTTP/1.1" 200 3780
+[INFO]2021-12-16 14:18:42|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 14:18:42|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 14:18:42|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 14:18:43|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 14:19:03|django.server|- Broken pipe from ('127.0.0.1', 62842)
+
+[INFO]2021-12-16 14:19:03|django.server|"GET /core/template/invoice/ HTTP/1.1" 200 3766
+[INFO]2021-12-16 14:19:03|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 14:19:03|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 14:19:03|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 14:19:03|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 14:20:32|django.server|- Broken pipe from ('127.0.0.1', 63391)
+
+[INFO]2021-12-16 14:20:32|django.server|"GET /core/template/invoice/ HTTP/1.1" 200 3867
+[INFO]2021-12-16 14:20:32|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 14:20:32|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 14:20:32|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 14:20:33|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 14:20:33|django.server|"GET /media/TEMPLATES/InvoiceTemplate.pdf HTTP/1.1" 200 3208844
+[INFO]2021-12-16 14:21:21|django.server|- Broken pipe from ('127.0.0.1', 63059)
+
+[INFO]2021-12-16 14:21:21|django.server|"GET /core/template/invoice/ HTTP/1.1" 200 3866
+[INFO]2021-12-16 14:21:21|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 14:21:21|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 14:21:21|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 14:21:21|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 14:22:03|django.server|- Broken pipe from ('127.0.0.1', 64100)
+
+[INFO]2021-12-16 14:22:03|django.server|"GET /core/template/invoice/ HTTP/1.1" 200 3788
+[INFO]2021-12-16 14:22:03|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 14:22:03|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 14:22:03|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 14:22:03|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 14:23:34|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/urls.py changed, reloading.
+[INFO]2021-12-16 14:23:37|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:23:40|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/urls.py changed, reloading.
+[INFO]2021-12-16 14:23:44|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:29:20|django.server|"GET /core/invoices/ HTTP/1.1" 200 30223
+[INFO]2021-12-16 14:29:20|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 14:29:20|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 14:29:20|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 14:29:20|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 14:29:20|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
+[INFO]2021-12-16 14:29:22|django.server|"GET /core/invoices/ HTTP/1.1" 200 30223
+[INFO]2021-12-16 14:29:22|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 14:29:22|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 14:29:22|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 14:29:23|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 14:29:23|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
+[INFO]2021-12-16 14:29:47|django.server|"GET /core/invoices/ HTTP/1.1" 200 30118
+[INFO]2021-12-16 14:29:47|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 14:29:47|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 14:29:47|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 14:29:48|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 14:29:48|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
+[ERROR]2021-12-16 14:30:24|django.request|Internal Server Error: /core/templates/
+Traceback (most recent call last):
+  File "/Users/paullo/codes/python/freelancer/django-excel/core/views.py", line 395, in upload_invoice_template
+    f = file_name[0]
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/paullo/codes/python/freelancer/django-excel/core/views.py", line 400, in upload_invoice_template
+    return HTTP400
+NameError: name 'HTTP400' is not defined
+[ERROR]2021-12-16 14:30:24|django.request|Internal Server Error: /core/templates/
+Traceback (most recent call last):
+  File "/Users/paullo/codes/python/freelancer/django-excel/core/views.py", line 395, in upload_invoice_template
+    f = file_name[0]
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/paullo/codes/python/freelancer/django-excel/core/views.py", line 400, in upload_invoice_template
+    return HTTP400
+NameError: name 'HTTP400' is not defined
+[ERROR]2021-12-16 14:30:24|django.server|"GET /core/templates/ HTTP/1.1" 500 73110
+[INFO]2021-12-16 14:32:16|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 14:32:19|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:32:34|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 14:32:35|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:32:38|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 14:32:40|django.utils.autoreload|Watching for file changes with StatReloader
+[ERROR]2021-12-16 14:32:47|django.request|Internal Server Error: /core/templates/
+Traceback (most recent call last):
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/utils/deprecation.py", line 119, in __call__
+    response = self.process_response(request, response)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/middleware/clickjacking.py", line 26, in process_response
+    if response.get('X-Frame-Options') is not None:
+AttributeError: type object 'Http404' has no attribute 'get'
+[ERROR]2021-12-16 14:32:47|django.request|Internal Server Error: /core/templates/
+Traceback (most recent call last):
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/utils/deprecation.py", line 119, in __call__
+    response = self.process_response(request, response)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/middleware/clickjacking.py", line 26, in process_response
+    if response.get('X-Frame-Options') is not None:
+AttributeError: type object 'Http404' has no attribute 'get'
+[ERROR]2021-12-16 14:32:47|django.server|"GET /core/templates/ HTTP/1.1" 500 68621
+[INFO]2021-12-16 14:35:04|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 14:35:07|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:35:09|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 14:35:11|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:35:26|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 14:35:29|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:35:31|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 14:35:33|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:35:39|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 14:35:41|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:36:17|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 14:36:20|django.utils.autoreload|Watching for file changes with StatReloader
+[WARNING]2021-12-16 14:36:28|django.request|Not Found: /core/templates/
+[WARNING]2021-12-16 14:36:28|django.request|Not Found: /core/templates/
+[WARNING]2021-12-16 14:36:28|django.server|"GET /core/templates/ HTTP/1.1" 404 6581
+[INFO]2021-12-16 14:36:46|django.server|"GET /core/invoices/ HTTP/1.1" 200 30118
+[INFO]2021-12-16 14:36:46|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 14:36:46|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 14:36:46|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 14:36:46|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 14:36:46|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
+[INFO]2021-12-16 14:36:47|django.server|"GET /core/invoices/ HTTP/1.1" 200 30118
+[INFO]2021-12-16 14:36:47|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 14:36:47|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 14:36:47|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 14:36:47|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
+[INFO]2021-12-16 14:36:47|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 14:36:51|django.server|"GET /core/invoices/ HTTP/1.1" 200 30118
+[INFO]2021-12-16 14:36:51|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 14:36:51|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 14:36:51|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 14:36:51|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 14:36:51|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
+[WARNING]2021-12-16 14:36:54|django.request|Not Found: /core/templates/
+[WARNING]2021-12-16 14:36:54|django.request|Not Found: /core/templates/
+[WARNING]2021-12-16 14:36:54|django.server|"GET /core/templates/ HTTP/1.1" 404 6581
+[INFO]2021-12-16 14:37:03|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 14:37:04|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:37:09|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 14:37:11|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:37:18|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/urls.py changed, reloading.
+[INFO]2021-12-16 14:37:19|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:37:23|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/urls.py changed, reloading.
+[INFO]2021-12-16 14:37:25|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:38:14|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 14:38:16|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:38:19|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 14:38:20|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:38:22|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 14:38:24|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:39:18|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 14:39:20|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:39:21|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 14:39:22|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:39:28|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 14:39:29|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:39:32|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 14:39:34|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:39:37|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 14:39:39|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:39:42|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 14:39:44|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:39:49|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 14:39:51|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:39:55|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 14:39:57|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:40:37|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 14:40:39|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:41:07|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 14:41:08|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:41:30|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 14:41:31|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:41:34|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 14:41:35|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:41:37|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 14:41:39|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:41:46|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 14:41:48|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:41:56|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 14:41:58|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:42:03|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 14:42:04|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:42:23|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 14:42:24|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:42:26|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 14:42:28|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:42:32|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 14:42:33|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:43:05|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 14:43:07|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:43:11|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 14:43:13|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:43:19|django.server|"GET /core/invoices/ HTTP/1.1" 200 30118
+[INFO]2021-12-16 14:43:19|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 14:43:19|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 14:43:19|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 14:43:19|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
+[INFO]2021-12-16 14:43:19|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 14:43:22|django.server|"GET /core/invoices/ HTTP/1.1" 200 30118
+[INFO]2021-12-16 14:43:22|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 14:43:22|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 14:43:22|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 14:43:22|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 14:43:22|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
+[WARNING]2021-12-16 14:43:23|django.request|Not Found: /core/templates/
+[WARNING]2021-12-16 14:43:23|django.request|Not Found: /core/templates/
+[WARNING]2021-12-16 14:43:23|django.server|"GET /core/templates/ HTTP/1.1" 404 6565
+[INFO]2021-12-16 14:43:49|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 14:43:50|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:43:54|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 14:43:55|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:44:28|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 14:44:30|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:44:34|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 14:44:36|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:45:39|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:46:33|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 14:46:34|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:46:38|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 14:46:40|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:46:42|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 14:46:43|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:46:44|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 14:46:46|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:46:59|django.server|"GET /core/templates/ HTTP/1.1" 200 3417
+[INFO]2021-12-16 14:46:59|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 14:46:59|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 14:46:59|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 14:46:59|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 14:47:31|django.server|"GET /core/templates/ HTTP/1.1" 200 3303
+[INFO]2021-12-16 14:47:31|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 14:47:31|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 14:47:31|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 14:47:31|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 14:48:38|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 14:48:41|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:49:31|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 14:49:32|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:49:38|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 14:49:40|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:50:06|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 14:50:09|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:51:20|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 14:51:22|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:51:30|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 14:51:34|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:51:37|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 14:51:39|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:51:52|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 14:51:55|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:52:00|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 14:52:04|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 14:52:11|django.server|"GET /core/templates/ HTTP/1.1" 200 5142
+[INFO]2021-12-16 14:52:11|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 14:52:11|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 14:52:11|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 14:52:11|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 14:52:12|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
+[INFO]2021-12-16 14:52:40|django.server|"GET /core/templates/ HTTP/1.1" 200 5143
+[INFO]2021-12-16 14:52:40|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 14:52:40|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 14:52:40|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 14:52:40|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 14:52:41|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
+[INFO]2021-12-16 14:52:59|django.server|"GET /core/templates/ HTTP/1.1" 200 5143
+[INFO]2021-12-16 14:52:59|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 14:52:59|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 14:52:59|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 14:52:59|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 14:52:59|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
+[INFO]2021-12-16 14:53:20|django.server|"GET /core/templates/ HTTP/1.1" 200 5144
+[INFO]2021-12-16 14:53:20|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 14:53:20|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 14:53:20|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 14:53:20|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 14:53:20|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
+[INFO]2021-12-16 14:53:45|django.server|"GET /core/templates/ HTTP/1.1" 200 4788
+[INFO]2021-12-16 14:53:45|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 14:53:45|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 14:53:45|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 14:53:45|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
+[INFO]2021-12-16 14:53:45|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 14:54:32|django.server|"GET /core/templates/ HTTP/1.1" 200 4782
+[INFO]2021-12-16 14:54:33|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 14:54:33|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 14:54:33|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 14:54:33|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 14:54:33|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
+[INFO]2021-12-16 14:54:41|django.server|"GET /core/templates/ HTTP/1.1" 200 4784
+[INFO]2021-12-16 14:54:41|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 14:54:41|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 14:54:41|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 14:54:41|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 14:54:41|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
+[INFO]2021-12-16 14:55:45|django.server|"GET /core/templates/ HTTP/1.1" 200 4816
+[INFO]2021-12-16 14:55:45|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 14:55:45|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 14:55:45|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 14:55:45|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 14:55:45|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
+[INFO]2021-12-16 14:56:46|django.server|"GET /core/templates/ HTTP/1.1" 200 4908
+[INFO]2021-12-16 14:56:46|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 14:56:46|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 14:56:46|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 14:56:46|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 14:56:46|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
+[INFO]2021-12-16 14:56:52|django.server|"GET /core/templates/ HTTP/1.1" 200 4886
+[INFO]2021-12-16 14:56:52|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 14:56:52|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 14:56:52|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 14:56:53|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 14:56:53|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
+[INFO]2021-12-16 14:57:36|django.server|"GET /core/templates/ HTTP/1.1" 200 4886
+[INFO]2021-12-16 14:57:36|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 14:57:36|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 14:57:36|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 14:57:36|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 14:57:36|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
+[INFO]2021-12-16 14:57:43|django.server|"GET /core/templates/ HTTP/1.1" 200 4886
+[INFO]2021-12-16 14:57:43|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 14:57:43|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 14:57:43|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 14:57:44|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
+[INFO]2021-12-16 14:57:44|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 14:58:26|django.server|"GET /core/templates/ HTTP/1.1" 200 4874
+[INFO]2021-12-16 14:58:26|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 14:58:26|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 14:58:26|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 14:58:26|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 14:58:26|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
+[INFO]2021-12-16 14:59:23|django.server|"GET /core/templates/ HTTP/1.1" 200 4876
+[INFO]2021-12-16 14:59:23|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 14:59:23|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 14:59:23|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 14:59:23|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
+[INFO]2021-12-16 14:59:23|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 14:59:48|django.server|"GET /core/templates/ HTTP/1.1" 200 4858
+[INFO]2021-12-16 14:59:48|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 14:59:48|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 14:59:48|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 14:59:48|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
+[INFO]2021-12-16 14:59:48|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 15:00:07|django.server|"GET /core/templates/ HTTP/1.1" 200 4776
+[INFO]2021-12-16 15:00:08|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 15:00:08|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 15:00:08|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 15:00:08|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 15:00:08|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
+[INFO]2021-12-16 15:00:29|django.server|"GET /core/templates/ HTTP/1.1" 200 4758
+[INFO]2021-12-16 15:00:29|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 15:00:29|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 15:00:29|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 15:00:29|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 15:00:29|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
+[INFO]2021-12-16 15:02:10|django.server|"GET /core/templates/ HTTP/1.1" 200 4873
+[INFO]2021-12-16 15:02:10|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 15:02:10|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 15:02:10|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 15:02:10|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 15:02:10|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
+[INFO]2021-12-16 15:02:50|django.server|"GET /core/templates/ HTTP/1.1" 200 4873
+[INFO]2021-12-16 15:02:50|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 15:02:50|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 15:02:50|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 15:02:50|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 15:02:50|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
+[INFO]2021-12-16 15:03:01|django.server|"GET /core/templates/ HTTP/1.1" 200 4873
+[INFO]2021-12-16 15:03:01|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 15:03:01|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 15:03:01|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 15:03:02|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 15:03:02|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
+[INFO]2021-12-16 15:03:05|django.server|"GET /admin/core/task/ HTTP/1.1" 200 338400
+[INFO]2021-12-16 15:03:05|django.server|"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2271
+[INFO]2021-12-16 15:03:05|django.server|"GET /static/admin/css/changelists.css HTTP/1.1" 200 6874
+[INFO]2021-12-16 15:03:05|django.server|"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+[INFO]2021-12-16 15:03:05|django.server|"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+[INFO]2021-12-16 15:03:05|django.server|"GET /static/admin/js/core.js HTTP/1.1" 200 5698
+[INFO]2021-12-16 15:03:05|django.server|"GET /static/admin/css/responsive.css HTTP/1.1" 200 18545
+[INFO]2021-12-16 15:03:05|django.server|"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+[INFO]2021-12-16 15:03:05|django.server|"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 5984
+[INFO]2021-12-16 15:03:05|django.server|"GET /static/admin/js/actions.js HTTP/1.1" 200 7664
+[INFO]2021-12-16 15:03:05|django.server|"GET /static/admin/js/urlify.js HTTP/1.1" 200 7902
+[INFO]2021-12-16 15:03:05|django.server|"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 287630
+[INFO]2021-12-16 15:03:05|django.server|"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+[INFO]2021-12-16 15:03:05|django.server|"GET /static/admin/css/base.css HTTP/1.1" 200 19513
+[INFO]2021-12-16 15:03:05|django.server|"GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[INFO]2021-12-16 15:03:05|django.server|"GET /static/admin/img/search.svg HTTP/1.1" 200 458
+[INFO]2021-12-16 15:03:05|django.server|"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 1360
+[INFO]2021-12-16 15:03:05|django.server|"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[INFO]2021-12-16 15:03:05|django.server|"GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+[INFO]2021-12-16 15:03:05|django.server|"GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+[INFO]2021-12-16 15:03:05|django.server|"GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+[INFO]2021-12-16 15:03:05|django.server|"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[INFO]2021-12-16 15:03:05|django.server|"GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+[ERROR]2021-12-16 15:03:58|django.request|Internal Server Error: /core/templates/
+Traceback (most recent call last):
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/paullo/codes/python/freelancer/django-excel/core/views.py", line 415, in list_templates
+    "files": only_files
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/template/base.py", line 170, in render
+    return self._render(context)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/template/base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/template/defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/urls/base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/urls/resolvers.py", line 694, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for '' not found. '' is not a valid view function or pattern name.
+[ERROR]2021-12-16 15:03:58|django.request|Internal Server Error: /core/templates/
+Traceback (most recent call last):
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/paullo/codes/python/freelancer/django-excel/core/views.py", line 415, in list_templates
+    "files": only_files
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/template/base.py", line 170, in render
+    return self._render(context)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/template/base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/template/defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/urls/base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/urls/resolvers.py", line 694, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for '' not found. '' is not a valid view function or pattern name.
+[ERROR]2021-12-16 15:03:58|django.server|"GET /core/templates/ HTTP/1.1" 500 127494
+[INFO]2021-12-16 15:04:13|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/mysite/urls.py changed, reloading.
+[INFO]2021-12-16 15:04:15|django.utils.autoreload|Watching for file changes with StatReloader
+[ERROR]2021-12-16 15:04:24|django.request|Internal Server Error: /core/templates/
+Traceback (most recent call last):
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/paullo/codes/python/freelancer/django-excel/core/views.py", line 415, in list_templates
+    "files": only_files
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/template/base.py", line 170, in render
+    return self._render(context)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/template/base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/template/defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/urls/base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/urls/resolvers.py", line 694, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for '' not found. '' is not a valid view function or pattern name.
+[ERROR]2021-12-16 15:04:24|django.request|Internal Server Error: /core/templates/
+Traceback (most recent call last):
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/paullo/codes/python/freelancer/django-excel/core/views.py", line 415, in list_templates
+    "files": only_files
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/template/base.py", line 170, in render
+    return self._render(context)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/template/base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/template/defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/urls/base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/urls/resolvers.py", line 694, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for '' not found. '' is not a valid view function or pattern name.
+[ERROR]2021-12-16 15:04:24|django.server|"GET /core/templates/ HTTP/1.1" 500 127494
+[INFO]2021-12-16 15:04:50|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/mysite/urls.py changed, reloading.
+[INFO]2021-12-16 15:04:52|django.utils.autoreload|Watching for file changes with StatReloader
+[ERROR]2021-12-16 15:04:58|django.request|Internal Server Error: /core/templates/
+Traceback (most recent call last):
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/paullo/codes/python/freelancer/django-excel/core/views.py", line 415, in list_templates
+    "files": only_files
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/template/base.py", line 170, in render
+    return self._render(context)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/template/base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/template/defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/urls/base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/urls/resolvers.py", line 694, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for '' not found. '' is not a valid view function or pattern name.
+[ERROR]2021-12-16 15:04:58|django.request|Internal Server Error: /core/templates/
+Traceback (most recent call last):
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/paullo/codes/python/freelancer/django-excel/core/views.py", line 415, in list_templates
+    "files": only_files
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/template/base.py", line 170, in render
+    return self._render(context)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/template/base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/template/defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/urls/base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/urls/resolvers.py", line 694, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for '' not found. '' is not a valid view function or pattern name.
+[ERROR]2021-12-16 15:04:58|django.server|"GET /core/templates/ HTTP/1.1" 500 127494
+[INFO]2021-12-16 15:05:05|django.server|"GET / HTTP/1.1" 200 30087
+[INFO]2021-12-16 15:05:05|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 15:05:05|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 15:05:05|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 15:05:06|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 15:05:06|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
+[ERROR]2021-12-16 15:05:43|django.request|Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/paullo/codes/python/freelancer/django-excel/core/views.py", line 386, in list_invoices
+    "files": only_files
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/template/base.py", line 170, in render
+    return self._render(context)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/template/base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/template/defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/urls/base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/urls/resolvers.py", line 694, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for '' not found. '' is not a valid view function or pattern name.
+[ERROR]2021-12-16 15:05:43|django.request|Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/paullo/codes/python/freelancer/django-excel/core/views.py", line 386, in list_invoices
+    "files": only_files
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/template/base.py", line 170, in render
+    return self._render(context)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/template/base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/template/defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/urls/base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/urls/resolvers.py", line 694, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for '' not found. '' is not a valid view function or pattern name.
+[ERROR]2021-12-16 15:05:43|django.server|"GET / HTTP/1.1" 500 131309
+[INFO]2021-12-16 15:05:55|django.server|"GET / HTTP/1.1" 200 30104
+[INFO]2021-12-16 15:05:55|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 15:05:55|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 15:05:55|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 15:05:55|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 15:05:55|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
+[INFO]2021-12-16 15:06:06|django.server|"GET /core/templates/ HTTP/1.1" 200 4890
+[INFO]2021-12-16 15:06:06|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 15:06:06|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 15:06:06|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 15:06:06|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 15:06:06|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
+[INFO]2021-12-16 15:06:08|django.server|"GET / HTTP/1.1" 200 30104
+[INFO]2021-12-16 15:06:08|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 15:06:08|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 15:06:08|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 15:06:08|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
+[INFO]2021-12-16 15:06:08|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 15:06:11|django.server|"GET /core/templates/ HTTP/1.1" 200 4890
+[INFO]2021-12-16 15:06:11|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 15:06:11|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 15:06:11|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 15:06:11|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 15:06:11|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
+[INFO]2021-12-16 15:07:15|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/urls.py changed, reloading.
+[INFO]2021-12-16 15:07:17|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 15:08:28|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/urls.py changed, reloading.
+[INFO]2021-12-16 15:08:29|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 15:08:34|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/urls.py changed, reloading.
+[INFO]2021-12-16 15:08:36|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 15:08:43|django.server|"GET /core/templates/ HTTP/1.1" 200 4864
+[INFO]2021-12-16 15:08:43|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 15:08:43|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 15:08:43|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 15:08:44|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 15:08:44|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
+[ERROR]2021-12-16 15:08:47|django.request|Internal Server Error: /core/templates/SummaryPageTemplate.pdf/
+Traceback (most recent call last):
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+TypeError: list_templates() got an unexpected keyword argument 'file_name'
+[ERROR]2021-12-16 15:08:47|django.request|Internal Server Error: /core/templates/SummaryPageTemplate.pdf/
+Traceback (most recent call last):
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+TypeError: list_templates() got an unexpected keyword argument 'file_name'
+[ERROR]2021-12-16 15:08:47|django.server|"GET /core/templates/SummaryPageTemplate.pdf/ HTTP/1.1" 500 65220
+[INFO]2021-12-16 15:09:47|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 15:09:49|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 15:09:53|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 15:09:54|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 15:09:58|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 15:10:01|django.utils.autoreload|Watching for file changes with StatReloader
+[ERROR]2021-12-16 15:10:13|django.request|Internal Server Error: /core/templates/
+Traceback (most recent call last):
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/paullo/codes/python/freelancer/django-excel/core/views.py", line 396, in list_templates
+    file_path="{}/{}/{}.pdf".format(settings.MEDIA_ROOT, "TEMPLATES", file_name)
+NameError: name 'file_name' is not defined
+[ERROR]2021-12-16 15:10:13|django.request|Internal Server Error: /core/templates/
+Traceback (most recent call last):
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/paullo/codes/python/freelancer/django-excel/core/views.py", line 396, in list_templates
+    file_path="{}/{}/{}.pdf".format(settings.MEDIA_ROOT, "TEMPLATES", file_name)
+NameError: name 'file_name' is not defined
+[ERROR]2021-12-16 15:10:13|django.server|"GET /core/templates/ HTTP/1.1" 500 68974
+[ERROR]2021-12-16 15:10:16|django.request|Internal Server Error: /core/templates/
+Traceback (most recent call last):
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/paullo/codes/python/freelancer/django-excel/core/views.py", line 396, in list_templates
+    file_path="{}/{}/{}.pdf".format(settings.MEDIA_ROOT, "TEMPLATES", file_name)
+NameError: name 'file_name' is not defined
+[ERROR]2021-12-16 15:10:16|django.request|Internal Server Error: /core/templates/
+Traceback (most recent call last):
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/paullo/codes/python/freelancer/django-excel/core/views.py", line 396, in list_templates
+    file_path="{}/{}/{}.pdf".format(settings.MEDIA_ROOT, "TEMPLATES", file_name)
+NameError: name 'file_name' is not defined
+[ERROR]2021-12-16 15:10:16|django.server|"GET /core/templates/ HTTP/1.1" 500 68974
+[INFO]2021-12-16 15:10:28|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 15:10:31|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 15:10:44|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 15:10:45|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 15:10:54|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 15:10:55|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 15:11:01|django.server|"GET /core/templates/ HTTP/1.1" 200 4864
+[INFO]2021-12-16 15:11:01|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 15:11:01|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 15:11:01|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 15:11:02|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 15:11:02|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
+[ERROR]2021-12-16 15:11:05|django.request|Internal Server Error: /core/templates/SummaryPageTemplate.pdf/
+Traceback (most recent call last):
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+TypeError: list_templates() got an unexpected keyword argument 'file_name'
+[ERROR]2021-12-16 15:11:05|django.request|Internal Server Error: /core/templates/SummaryPageTemplate.pdf/
+Traceback (most recent call last):
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+TypeError: list_templates() got an unexpected keyword argument 'file_name'
+[ERROR]2021-12-16 15:11:05|django.server|"GET /core/templates/SummaryPageTemplate.pdf/ HTTP/1.1" 500 65220
+[INFO]2021-12-16 15:11:21|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 15:11:24|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 15:11:37|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 15:11:39|django.utils.autoreload|Watching for file changes with StatReloader
+[ERROR]2021-12-16 15:11:44|django.request|Internal Server Error: /core/templates/SummaryPageTemplate.pdf/
+Traceback (most recent call last):
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/paullo/codes/python/freelancer/django-excel/core/views.py", line 398, in list_templates
+    if filename and os.path.exists(file_path):
+NameError: name 'filename' is not defined
+[ERROR]2021-12-16 15:11:44|django.request|Internal Server Error: /core/templates/SummaryPageTemplate.pdf/
+Traceback (most recent call last):
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/paullo/codes/python/freelancer/django-excel/core/views.py", line 398, in list_templates
+    if filename and os.path.exists(file_path):
+NameError: name 'filename' is not defined
+[ERROR]2021-12-16 15:11:44|django.server|"GET /core/templates/SummaryPageTemplate.pdf/ HTTP/1.1" 500 69480
+[INFO]2021-12-16 15:11:53|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 15:11:55|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 15:12:03|django.server|"GET /core/templates/SummaryPageTemplate.pdf/ HTTP/1.1" 200 4864
+[INFO]2021-12-16 15:12:05|django.server|"GET /core/templates/SummaryPageTemplate.pdf/ HTTP/1.1" 200 4864
+[INFO]2021-12-16 15:12:42|django.server|"GET /core/templates/SummaryPageTemplate.pdf/ HTTP/1.1" 200 4864
+[INFO]2021-12-16 15:14:17|django.server|"GET /core/templates/SummaryPageTemplate.pdf/ HTTP/1.1" 200 57592
+[INFO]2021-12-16 15:14:32|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 15:14:40|django.server|"GET /core/templates/ HTTP/1.1" 200 4864
+[INFO]2021-12-16 15:14:40|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 15:14:40|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 15:14:40|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 15:14:40|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 15:14:40|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
+[INFO]2021-12-16 15:14:43|django.server|"GET /core/templates/SummaryPageTemplate.pdf/ HTTP/1.1" 200 57592
+[INFO]2021-12-16 15:14:54|django.server|"GET /core/templates/InvoiceTemplate.pdf/ HTTP/1.1" 200 3208844
+[INFO]2021-12-16 15:15:57|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/urls.py changed, reloading.
+[INFO]2021-12-16 15:15:59|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 15:16:27|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/urls.py changed, reloading.
+[INFO]2021-12-16 15:16:29|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 15:16:32|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/urls.py changed, reloading.
+[INFO]2021-12-16 15:16:35|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 15:16:36|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/urls.py changed, reloading.
+[INFO]2021-12-16 15:16:40|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 15:16:52|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 15:16:54|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 15:16:58|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 15:17:00|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 15:17:23|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 15:17:24|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 15:18:08|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 15:18:09|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 15:18:13|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 15:18:15|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 15:19:48|django.server|"GET / HTTP/1.1" 200 30104
+[INFO]2021-12-16 15:19:48|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 15:19:48|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 15:19:48|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 15:19:48|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 15:19:48|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
+[INFO]2021-12-16 15:19:50|django.server|"GET /core/templates/ HTTP/1.1" 200 4878
+[INFO]2021-12-16 15:19:50|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 15:19:50|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 15:19:50|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 15:19:50|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
+[INFO]2021-12-16 15:19:50|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 15:19:52|django.server|"GET /core/templates/SummaryPageTemplate.pdf/ HTTP/1.1" 200 57592
+[INFO]2021-12-16 15:19:57|django.server|"GET /core/templates/InvoiceTemplate.pdf/ HTTP/1.1" 200 3208844
+[INFO]2021-12-16 15:22:16|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 15:22:18|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 15:22:41|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 15:22:42|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 15:23:16|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 15:23:17|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 15:23:27|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 15:23:29|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 15:23:31|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 15:23:33|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 15:23:47|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 15:23:48|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 15:23:53|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 15:23:54|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 15:23:57|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 15:23:58|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 15:24:04|django.server|"GET /core/templates/ HTTP/1.1" 200 4878
+[INFO]2021-12-16 15:24:05|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 15:24:05|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 15:24:05|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 15:24:05|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 15:24:05|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
+[INFO]2021-12-16 15:24:08|django.server|"GET /core/templates/upload/SummaryPageTemplate.pdf/ HTTP/1.1" 200 3320
+[INFO]2021-12-16 15:24:08|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 15:24:08|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 15:24:08|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 15:24:08|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 15:26:10|django.server|"GET /core/templates/upload/SummaryPageTemplate.pdf/ HTTP/1.1" 200 3343
+[INFO]2021-12-16 15:26:10|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 15:26:10|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 15:26:10|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 15:26:11|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 15:26:39|django.server|"GET /core/templates/upload/SummaryPageTemplate.pdf/ HTTP/1.1" 200 3367
+[INFO]2021-12-16 15:26:39|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 15:26:39|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 15:26:39|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 15:26:40|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 15:26:49|django.server|"GET /core/templates/upload/SummaryPageTemplate.pdf/ HTTP/1.1" 200 3372
+[INFO]2021-12-16 15:26:49|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 15:26:49|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 15:26:49|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 15:26:49|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 15:27:23|django.server|"GET /core/templates/upload/SummaryPageTemplate.pdf/ HTTP/1.1" 200 3385
+[INFO]2021-12-16 15:27:23|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 15:27:23|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 15:27:23|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 15:27:23|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 15:27:29|django.server|"GET /core/templates/upload/SummaryPageTemplate.pdf/ HTTP/1.1" 200 3379
+[INFO]2021-12-16 15:27:29|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 15:27:29|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 15:27:29|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 15:27:29|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 15:28:18|django.server|"GET /core/templates/upload/SummaryPageTemplate.pdf/ HTTP/1.1" 200 3465
+[INFO]2021-12-16 15:28:18|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 15:28:18|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 15:28:18|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 15:28:19|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 15:29:55|django.server|"GET /core/templates/upload/SummaryPageTemplate.pdf/ HTTP/1.1" 200 3512
+[INFO]2021-12-16 15:29:55|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 15:29:55|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 15:29:55|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 15:29:55|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 15:30:05|django.server|"GET /core/templates/upload/SummaryPageTemplate.pdf/ HTTP/1.1" 200 3517
+[INFO]2021-12-16 15:30:05|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 15:30:05|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 15:30:05|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 15:30:05|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 15:31:10|django.server|"GET /core/templates/upload/SummaryPageTemplate.pdf/ HTTP/1.1" 200 3570
+[INFO]2021-12-16 15:31:10|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 15:31:10|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 15:31:10|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 15:31:10|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 15:31:35|django.server|"GET /core/templates/upload/SummaryPageTemplate.pdf/ HTTP/1.1" 200 3583
+[INFO]2021-12-16 15:31:35|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 15:31:35|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 15:31:35|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 15:31:35|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 15:31:40|django.server|"GET /core/templates/upload/SummaryPageTemplate.pdf/ HTTP/1.1" 200 3583
+[INFO]2021-12-16 15:31:40|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 15:31:40|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 15:31:40|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 15:31:40|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 15:32:10|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 15:32:12|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 15:32:18|django.server|"GET /core/templates/upload/SummaryPageTemplate.pdf/ HTTP/1.1" 200 3579
+[INFO]2021-12-16 15:32:18|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 15:32:18|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 15:32:18|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 15:32:18|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 15:32:30|django.server|"GET /core/templates/ HTTP/1.1" 200 4878
+[INFO]2021-12-16 15:32:30|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 15:32:30|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 15:32:30|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 15:32:30|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 15:32:30|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
+[INFO]2021-12-16 15:32:33|django.server|"GET /core/templates/upload/InvoiceTemplate.pdf/ HTTP/1.1" 200 3575
+[INFO]2021-12-16 15:32:33|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 15:32:33|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 15:32:33|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 15:32:33|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 15:34:39|django.server|"GET /core/templates/upload/InvoiceTemplate.pdf/ HTTP/1.1" 200 3548
+[INFO]2021-12-16 15:34:39|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 15:34:39|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 15:34:39|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 15:34:39|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 15:37:00|django.server|"GET /core/templates/ HTTP/1.1" 200 4878
+[INFO]2021-12-16 15:37:01|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 15:37:01|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 15:37:01|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 15:37:01|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 15:37:01|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
+[INFO]2021-12-16 15:37:04|django.server|"GET /core/templates/upload/SummaryPageTemplate.pdf/ HTTP/1.1" 200 3552
+[INFO]2021-12-16 15:37:04|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 15:37:04|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 15:37:04|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 15:37:04|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 15:37:57|django.server|"GET /core/templates/upload/SummaryPageTemplate.pdf/ HTTP/1.1" 200 3640
+[INFO]2021-12-16 15:37:57|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 15:37:57|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 15:37:57|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 15:37:58|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[ERROR]2021-12-16 15:40:47|django.request|Internal Server Error: /core/templates/upload/SummaryPageTemplate.pdf/
+Traceback (most recent call last):
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/utils/datastructures.py", line 76, in __getitem__
+    list_ = super().__getitem__(key)
+KeyError: 'myfile'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/paullo/codes/python/freelancer/django-excel/core/views.py", line 420, in templates_upload
+    if request.method == 'POST' and request.FILES['myfile']:
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/utils/datastructures.py", line 78, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'myfile'
+[ERROR]2021-12-16 15:40:47|django.request|Internal Server Error: /core/templates/upload/SummaryPageTemplate.pdf/
+Traceback (most recent call last):
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/utils/datastructures.py", line 76, in __getitem__
+    list_ = super().__getitem__(key)
+KeyError: 'myfile'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/paullo/codes/python/freelancer/django-excel/core/views.py", line 420, in templates_upload
+    if request.method == 'POST' and request.FILES['myfile']:
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/utils/datastructures.py", line 78, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'myfile'
+[ERROR]2021-12-16 15:40:48|django.server|"POST /core/templates/upload/SummaryPageTemplate.pdf/ HTTP/1.1" 500 81311
+[INFO]2021-12-16 16:16:44|django.server|"GET /core/templates/ HTTP/1.1" 200 4878
+[INFO]2021-12-16 16:16:44|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 16:16:44|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 16:16:45|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 16:16:45|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 16:16:45|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
+[INFO]2021-12-16 16:16:56|django.server|"GET /core/templates/upload/SummaryPageTemplate.pdf/ HTTP/1.1" 200 3640
+[INFO]2021-12-16 16:16:56|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 16:16:56|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 16:16:56|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 16:16:57|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 16:25:59|django.server|"GET /core/templates/upload/SummaryPageTemplate.pdf/ HTTP/1.1" 200 3661
+[INFO]2021-12-16 16:25:59|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 16:25:59|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 16:25:59|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 16:25:59|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 16:28:13|django.server|"GET /core/templates/upload/SummaryPageTemplate.pdf/ HTTP/1.1" 200 3665
+[INFO]2021-12-16 16:28:13|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 16:28:13|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 16:28:13|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 16:28:14|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 16:29:21|django.server|"POST /core/templates/upload/SummaryPageTemplate.pdf/ HTTP/1.1" 200 3665
+[INFO]2021-12-16 16:29:21|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 16:29:21|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 16:29:21|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 16:29:21|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 16:30:42|django.server|"POST /core/templates/upload/SummaryPageTemplate.pdf/ HTTP/1.1" 200 3665
+[INFO]2021-12-16 16:30:42|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 16:30:42|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 16:30:42|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 16:30:42|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 16:32:14|django.server|"POST /core/templates/upload/SummaryPageTemplate.pdf/ HTTP/1.1" 200 3715
+[INFO]2021-12-16 16:32:14|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 16:32:14|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 16:32:14|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 16:32:15|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 16:32:23|django.server|"POST /core/templates/upload/SummaryPageTemplate.pdf/ HTTP/1.1" 200 3715
+[INFO]2021-12-16 16:32:23|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 16:32:23|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 16:32:23|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 16:32:24|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 16:33:28|django.server|"POST /core/templates/upload/SummaryPageTemplate.pdf/ HTTP/1.1" 200 3715
+[INFO]2021-12-16 16:33:28|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 16:33:28|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 16:33:28|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 16:33:28|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 16:35:12|django.server|"POST /core/templates/upload/SummaryPageTemplate.pdf/ HTTP/1.1" 200 3715
+[INFO]2021-12-16 16:35:12|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 16:35:12|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 16:35:12|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 16:35:12|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 16:36:02|django.server|"POST /core/templates/upload/SummaryPageTemplate.pdf/ HTTP/1.1" 200 3715
+[INFO]2021-12-16 16:36:02|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 16:36:02|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 16:36:02|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 16:36:02|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 16:41:04|django.server|- Broken pipe from ('127.0.0.1', 61918)
+
+[INFO]2021-12-16 16:41:08|django.server|"POST /core/templates/upload/SummaryPageTemplate.pdf/ HTTP/1.1" 200 3665
+[INFO]2021-12-16 16:41:09|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 16:41:09|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 16:41:09|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 16:41:09|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 16:46:02|django.server|"POST /core/templates/upload/SummaryPageTemplate.pdf/ HTTP/1.1" 200 3800
+[INFO]2021-12-16 16:46:02|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 16:46:02|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 16:46:02|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 16:46:02|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 16:47:34|django.server|"POST /core/templates/upload/SummaryPageTemplate.pdf/ HTTP/1.1" 200 3800
+[INFO]2021-12-16 16:47:34|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 16:47:34|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 16:47:34|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 16:47:35|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 16:49:03|django.server|"POST /core/templates/upload/SummaryPageTemplate.pdf/ HTTP/1.1" 200 3800
+[INFO]2021-12-16 16:49:03|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 16:49:03|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 16:49:03|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 16:49:03|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 16:50:18|django.server|"POST /core/templates/upload/SummaryPageTemplate.pdf/ HTTP/1.1" 200 3800
+[INFO]2021-12-16 16:50:18|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 16:50:18|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 16:50:18|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 16:50:18|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 16:54:09|django.server|"GET /core/templates/SummaryPageTemplate.pdf/ HTTP/1.1" 200 57592
+[INFO]2021-12-16 16:58:05|django.utils.autoreload|Watching for file changes with StatReloader
+[ERROR]2021-12-16 16:58:35|django.request|Internal Server Error: /core/templates/upload/SummaryPageTemplate.pdf/
+Traceback (most recent call last):
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/paullo/codes/python/freelancer/django-excel/core/views.py", line 433, in templates_upload
+    return redirect('template', name=file_name[:-4] )
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/shortcuts.py", line 41, in redirect
+    return redirect_class(resolve_url(to, *args, **kwargs))
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/shortcuts.py", line 130, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/urls/base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/urls/resolvers.py", line 694, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'template' with keyword arguments '{'name': 'SummaryPageTemplate'}' not found. 1 pattern(s) tried: ['core/templates/(?P<file_name>[^/]+)/$']
+[ERROR]2021-12-16 16:58:35|django.request|Internal Server Error: /core/templates/upload/SummaryPageTemplate.pdf/
+Traceback (most recent call last):
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/paullo/codes/python/freelancer/django-excel/core/views.py", line 433, in templates_upload
+    return redirect('template', name=file_name[:-4] )
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/shortcuts.py", line 41, in redirect
+    return redirect_class(resolve_url(to, *args, **kwargs))
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/shortcuts.py", line 130, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/urls/base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/urls/resolvers.py", line 694, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'template' with keyword arguments '{'name': 'SummaryPageTemplate'}' not found. 1 pattern(s) tried: ['core/templates/(?P<file_name>[^/]+)/$']
+[ERROR]2021-12-16 16:58:35|django.server|"POST /core/templates/upload/SummaryPageTemplate.pdf/ HTTP/1.1" 500 93523
+[INFO]2021-12-16 16:58:51|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 16:58:54|django.utils.autoreload|Watching for file changes with StatReloader
+[ERROR]2021-12-16 16:59:01|django.request|Internal Server Error: /core/templates/upload/SummaryPageTemplate.pdf/
+Traceback (most recent call last):
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/paullo/codes/python/freelancer/django-excel/core/views.py", line 433, in templates_upload
+    return redirect('template' )
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/shortcuts.py", line 41, in redirect
+    return redirect_class(resolve_url(to, *args, **kwargs))
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/shortcuts.py", line 130, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/urls/base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/urls/resolvers.py", line 694, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'template' with no arguments not found. 1 pattern(s) tried: ['core/templates/(?P<file_name>[^/]+)/$']
+[ERROR]2021-12-16 16:59:01|django.request|Internal Server Error: /core/templates/upload/SummaryPageTemplate.pdf/
+Traceback (most recent call last):
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/paullo/codes/python/freelancer/django-excel/core/views.py", line 433, in templates_upload
+    return redirect('template' )
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/shortcuts.py", line 41, in redirect
+    return redirect_class(resolve_url(to, *args, **kwargs))
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/shortcuts.py", line 130, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/urls/base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "/Users/paullo/codes/python/freelancer/venvs/exceldoc/lib/python3.7/site-packages/django/urls/resolvers.py", line 694, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'template' with no arguments not found. 1 pattern(s) tried: ['core/templates/(?P<file_name>[^/]+)/$']
+[ERROR]2021-12-16 16:59:01|django.server|"POST /core/templates/upload/SummaryPageTemplate.pdf/ HTTP/1.1" 500 93272
+[INFO]2021-12-16 16:59:28|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 16:59:31|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 16:59:38|django.server|"POST /core/templates/upload/SummaryPageTemplate.pdf/ HTTP/1.1" 302 0
+[INFO]2021-12-16 16:59:38|django.server|"GET /core/templates/ HTTP/1.1" 200 6226
+[INFO]2021-12-16 16:59:38|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 16:59:38|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 16:59:38|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 16:59:38|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 16:59:39|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
+[INFO]2021-12-16 16:59:43|django.server|"GET /core/templates/ HTTP/1.1" 200 5845
+[INFO]2021-12-16 16:59:44|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 16:59:44|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 16:59:44|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 16:59:44|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 16:59:44|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
+[WARNING]2021-12-16 17:00:19|django.request|Not Found: /core/templates/.DS_Store/
+[WARNING]2021-12-16 17:00:19|django.request|Not Found: /core/templates/.DS_Store/
+[WARNING]2021-12-16 17:00:19|django.server|"GET /core/templates/.DS_Store/ HTTP/1.1" 404 6810
+[INFO]2021-12-16 17:00:26|django.server|"GET /core/templates/SummaryPageTemplate.pdf/ HTTP/1.1" 200 36052
+[INFO]2021-12-16 17:00:34|django.server|"GET /core/templates/InvoiceTemplate.pdf/ HTTP/1.1" 200 3208844
+[INFO]2021-12-16 17:00:39|django.server|"GET /core/templates/upload/SummaryPageTemplate.pdf/ HTTP/1.1" 200 3665
+[INFO]2021-12-16 17:00:39|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 17:00:39|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 17:00:39|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 17:00:39|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 17:00:56|django.server|"POST /core/templates/upload/SummaryPageTemplate.pdf/ HTTP/1.1" 302 0
+[INFO]2021-12-16 17:00:56|django.server|"GET /core/templates/ HTTP/1.1" 200 5972
+[INFO]2021-12-16 17:00:56|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 17:00:56|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 17:00:56|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 17:00:56|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 17:00:56|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
+[INFO]2021-12-16 17:01:00|django.server|"GET /core/templates/SummaryPageTemplate.pdf/ HTTP/1.1" 200 57592
+[INFO]2021-12-16 17:01:24|django.server|"GET /core/templates/ HTTP/1.1" 200 5845
+[INFO]2021-12-16 17:01:28|django.server|"GET /core/templates/ HTTP/1.1" 200 5845
+[INFO]2021-12-16 17:01:34|django.server|"GET /core/templates/upload/InvoiceTemplate.pdf/ HTTP/1.1" 200 3657
+[INFO]2021-12-16 17:02:24|django.server|"GET /core/templates/SummaryPageTemplate.pdf/ HTTP/1.1" 200 57592
+[INFO]2021-12-16 17:02:31|django.server|"GET /core/templates/upload/InvoiceTemplate.pdf/ HTTP/1.1" 200 3657
+[INFO]2021-12-16 17:02:37|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 17:03:25|django.server|"GET /core/templates/upload/InvoiceTemplate.pdf/ HTTP/1.1" 200 3698
+[INFO]2021-12-16 17:03:25|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 17:03:25|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 17:03:25|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 17:03:25|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 17:03:50|django.server|"GET /core/templates/upload/InvoiceTemplate.pdf/ HTTP/1.1" 200 3703
+[INFO]2021-12-16 17:03:50|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 17:03:50|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 17:03:50|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 17:03:51|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 17:04:02|django.server|"GET /core/templates/upload/InvoiceTemplate.pdf/ HTTP/1.1" 200 3703
+[INFO]2021-12-16 17:04:03|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 17:04:03|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 17:04:03|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 17:04:03|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 17:06:01|django.server|"GET /core/templates/upload/InvoiceTemplate.pdf/ HTTP/1.1" 200 3715
+[INFO]2021-12-16 17:06:01|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 17:06:01|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 17:06:01|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 17:06:01|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 17:06:09|django.server|"GET / HTTP/1.1" 200 30104
+[INFO]2021-12-16 17:06:09|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 17:06:09|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 17:06:09|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 17:06:10|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 17:06:10|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
+[INFO]2021-12-16 17:07:00|django.server|"GET /admin/core/task/ HTTP/1.1" 200 338400
+[INFO]2021-12-16 17:07:00|django.server|"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2271
+[INFO]2021-12-16 17:07:00|django.server|"GET /static/admin/css/changelists.css HTTP/1.1" 200 6874
+[INFO]2021-12-16 17:07:00|django.server|"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+[INFO]2021-12-16 17:07:00|django.server|"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+[INFO]2021-12-16 17:07:00|django.server|"GET /static/admin/js/core.js HTTP/1.1" 200 5698
+[INFO]2021-12-16 17:07:00|django.server|"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 5984
+[INFO]2021-12-16 17:07:00|django.server|"GET /static/admin/js/actions.js HTTP/1.1" 200 7664
+[INFO]2021-12-16 17:07:00|django.server|"GET /static/admin/js/urlify.js HTTP/1.1" 200 7902
+[INFO]2021-12-16 17:07:00|django.server|"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 287630
+[INFO]2021-12-16 17:07:00|django.server|"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+[INFO]2021-12-16 17:07:00|django.server|"GET /static/admin/css/responsive.css HTTP/1.1" 200 18545
+[INFO]2021-12-16 17:07:00|django.server|"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+[INFO]2021-12-16 17:07:00|django.server|"GET /static/admin/css/base.css HTTP/1.1" 200 19513
+[INFO]2021-12-16 17:07:00|django.server|"GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[INFO]2021-12-16 17:07:00|django.server|"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 1360
+[INFO]2021-12-16 17:07:00|django.server|"GET /static/admin/img/search.svg HTTP/1.1" 200 458
+[INFO]2021-12-16 17:07:01|django.server|"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[INFO]2021-12-16 17:07:01|django.server|"GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+[INFO]2021-12-16 17:07:01|django.server|"GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+[INFO]2021-12-16 17:07:01|django.server|"GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+[INFO]2021-12-16 17:07:01|django.server|"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[INFO]2021-12-16 17:07:01|django.server|"GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+[INFO]2021-12-16 17:07:03|django.server|"GET /admin/logout/ HTTP/1.1" 200 1529
+[INFO]2021-12-16 17:07:03|django.server|"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2271
+[INFO]2021-12-16 17:07:03|django.server|"GET /static/admin/css/base.css HTTP/1.1" 200 19513
+[INFO]2021-12-16 17:07:03|django.server|"GET /static/admin/css/responsive.css HTTP/1.1" 200 18545
+[INFO]2021-12-16 17:07:03|django.server|"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 1360
+[INFO]2021-12-16 17:07:03|django.server|"GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[INFO]2021-12-16 17:07:03|django.server|"GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+[INFO]2021-12-16 17:07:03|django.server|"GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+[INFO]2021-12-16 17:07:08|django.server|"GET / HTTP/1.1" 200 30104
+[INFO]2021-12-16 17:08:24|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 17:08:31|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 17:08:36|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 17:08:43|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 17:09:56|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 17:10:20|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 17:10:40|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 17:10:43|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 17:10:49|django.server|"GET / HTTP/1.1" 302 0
+[WARNING]2021-12-16 17:10:49|django.request|Not Found: /accounts/login/
+[WARNING]2021-12-16 17:10:49|django.request|Not Found: /accounts/login/
+[WARNING]2021-12-16 17:10:49|django.server|"GET /accounts/login/?next=/ HTTP/1.1" 404 2477
+[INFO]2021-12-16 17:12:09|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/mysite/settings.py changed, reloading.
+[INFO]2021-12-16 17:12:12|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 17:12:21|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/mysite/settings.py changed, reloading.
+[INFO]2021-12-16 17:12:25|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 17:12:28|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/mysite/settings.py changed, reloading.
+[INFO]2021-12-16 17:12:31|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 17:12:38|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/mysite/settings.py changed, reloading.
+[INFO]2021-12-16 17:12:41|django.utils.autoreload|Watching for file changes with StatReloader
+[WARNING]2021-12-16 17:12:48|django.request|Not Found: /accounts/login/
+[WARNING]2021-12-16 17:12:48|django.request|Not Found: /accounts/login/
+[WARNING]2021-12-16 17:12:48|django.server|"GET /accounts/login/?next=/ HTTP/1.1" 404 2477
+[INFO]2021-12-16 17:12:51|django.server|"GET / HTTP/1.1" 302 0
+[WARNING]2021-12-16 17:12:51|django.request|Not Found: /accounts/login/
+[WARNING]2021-12-16 17:12:51|django.request|Not Found: /accounts/login/
+[WARNING]2021-12-16 17:12:51|django.server|"GET /accounts/login/?next=/ HTTP/1.1" 404 2477
+[INFO]2021-12-16 17:13:17|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 17:13:23|django.server|"GET / HTTP/1.1" 302 0
+[WARNING]2021-12-16 17:13:23|django.request|Not Found: /accounts/login/
+[WARNING]2021-12-16 17:13:23|django.request|Not Found: /accounts/login/
+[WARNING]2021-12-16 17:13:23|django.server|"GET /accounts/login/?next=/ HTTP/1.1" 404 2477
+[INFO]2021-12-16 17:16:21|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/mysite/settings.py changed, reloading.
+[INFO]2021-12-16 17:16:23|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 17:16:30|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/mysite/settings.py changed, reloading.
+[INFO]2021-12-16 17:16:33|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 17:16:40|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/mysite/settings.py changed, reloading.
+[INFO]2021-12-16 17:16:44|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 17:16:48|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/mysite/settings.py changed, reloading.
+[INFO]2021-12-16 17:16:52|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 17:16:58|django.server|"GET / HTTP/1.1" 302 0
+[INFO]2021-12-16 17:16:58|django.server|"GET /admin/?next=/ HTTP/1.1" 302 0
+[INFO]2021-12-16 17:16:58|django.server|"GET /admin/login/?next=/admin/%3Fnext%3D/ HTTP/1.1" 200 2232
+[INFO]2021-12-16 17:16:58|django.server|"GET /static/admin/css/base.css HTTP/1.1" 200 19513
+[INFO]2021-12-16 17:16:58|django.server|"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2271
+[INFO]2021-12-16 17:16:58|django.server|"GET /static/admin/css/responsive.css HTTP/1.1" 200 18545
+[INFO]2021-12-16 17:16:58|django.server|"GET /static/admin/css/login.css HTTP/1.1" 200 939
+[INFO]2021-12-16 17:16:58|django.server|"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 1360
+[INFO]2021-12-16 17:16:58|django.server|"GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[INFO]2021-12-16 17:16:58|django.server|"GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+[INFO]2021-12-16 17:16:58|django.server|"GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+[INFO]2021-12-16 17:17:11|django.server|"POST /admin/login/?next=/admin/%3Fnext%3D/ HTTP/1.1" 302 0
+[INFO]2021-12-16 17:17:11|django.server|"GET /admin/?next=/ HTTP/1.1" 200 7928
+[INFO]2021-12-16 17:17:11|django.server|"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2271
+[INFO]2021-12-16 17:17:11|django.server|"GET /static/admin/css/responsive.css HTTP/1.1" 200 18545
+[INFO]2021-12-16 17:17:11|django.server|"GET /static/admin/css/dashboard.css HTTP/1.1" 200 380
+[INFO]2021-12-16 17:17:11|django.server|"GET /static/admin/css/base.css HTTP/1.1" 200 19513
+[INFO]2021-12-16 17:17:11|django.server|"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 1360
+[INFO]2021-12-16 17:17:11|django.server|"GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[INFO]2021-12-16 17:17:11|django.server|"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[INFO]2021-12-16 17:17:11|django.server|"GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+[INFO]2021-12-16 17:17:11|django.server|"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[INFO]2021-12-16 17:17:11|django.server|"GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+[INFO]2021-12-16 17:17:11|django.server|"GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+[INFO]2021-12-16 17:17:20|django.server|"GET / HTTP/1.1" 200 30104
+[INFO]2021-12-16 17:17:20|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 17:17:20|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 17:17:20|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 17:17:20|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
+[INFO]2021-12-16 17:17:20|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 17:18:40|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 17:18:44|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 17:18:49|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 17:18:51|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 17:19:06|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/urls.py changed, reloading.
+[INFO]2021-12-16 17:19:08|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 17:19:13|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/urls.py changed, reloading.
+[INFO]2021-12-16 17:19:17|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 17:19:23|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/urls.py changed, reloading.
+[INFO]2021-12-16 17:19:27|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 17:19:44|django.utils.autoreload|/Users/paullo/codes/python/freelancer/django-excel/core/views.py changed, reloading.
+[INFO]2021-12-16 17:19:47|django.utils.autoreload|Watching for file changes with StatReloader
+[INFO]2021-12-16 17:19:53|django.server|"GET / HTTP/1.1" 200 30104
+[INFO]2021-12-16 17:19:53|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 17:19:53|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 17:19:53|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 17:19:53|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 17:19:54|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
+[INFO]2021-12-16 17:20:31|django.server|"GET /core/templates/ HTTP/1.1" 200 5845
+[INFO]2021-12-16 17:20:32|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 17:20:32|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 17:20:32|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 17:20:32|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
+[INFO]2021-12-16 17:20:32|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 17:21:22|django.server|"GET /core/templates/ HTTP/1.1" 200 5920
+[INFO]2021-12-16 17:21:22|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 17:21:22|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 17:21:22|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 17:21:23|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 17:21:23|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
+[INFO]2021-12-16 17:21:42|django.server|"GET /core/templates/ HTTP/1.1" 200 5925
+[INFO]2021-12-16 17:21:42|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 17:21:42|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 17:21:42|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 17:21:43|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 17:21:43|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
+[INFO]2021-12-16 17:21:47|django.server|"GET /core/logout/ HTTP/1.1" 302 0
+[INFO]2021-12-16 17:21:47|django.server|"GET /admin HTTP/1.1" 301 0
+[INFO]2021-12-16 17:21:47|django.server|"GET /admin/ HTTP/1.1" 302 0
+[INFO]2021-12-16 17:21:47|django.server|"GET /admin/login/?next=/admin/ HTTP/1.1" 200 2214
+[INFO]2021-12-16 17:21:47|django.server|"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2271
+[INFO]2021-12-16 17:21:47|django.server|"GET /static/admin/css/login.css HTTP/1.1" 200 939
+[INFO]2021-12-16 17:21:47|django.server|"GET /static/admin/css/responsive.css HTTP/1.1" 200 18545
+[INFO]2021-12-16 17:21:47|django.server|"GET /static/admin/css/base.css HTTP/1.1" 200 19513
+[INFO]2021-12-16 17:21:47|django.server|"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 1360
+[INFO]2021-12-16 17:21:47|django.server|"GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[INFO]2021-12-16 17:21:47|django.server|"GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+[INFO]2021-12-16 17:21:47|django.server|"GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+[INFO]2021-12-16 17:21:55|django.server|"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[INFO]2021-12-16 17:21:55|django.server|"GET /admin/ HTTP/1.1" 200 7928
+[INFO]2021-12-16 17:21:55|django.server|"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2271
+[INFO]2021-12-16 17:21:55|django.server|"GET /static/admin/css/dashboard.css HTTP/1.1" 200 380
+[INFO]2021-12-16 17:21:55|django.server|"GET /static/admin/css/responsive.css HTTP/1.1" 200 18545
+[INFO]2021-12-16 17:21:55|django.server|"GET /static/admin/css/base.css HTTP/1.1" 200 19513
+[INFO]2021-12-16 17:21:55|django.server|"GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[INFO]2021-12-16 17:21:55|django.server|"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 1360
+[INFO]2021-12-16 17:21:55|django.server|"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[INFO]2021-12-16 17:21:55|django.server|"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[INFO]2021-12-16 17:21:55|django.server|"GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+[INFO]2021-12-16 17:21:55|django.server|"GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+[INFO]2021-12-16 17:21:55|django.server|"GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+[INFO]2021-12-16 17:22:00|django.server|"GET / HTTP/1.1" 200 30184
+[INFO]2021-12-16 17:22:00|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 17:22:00|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 17:22:00|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 17:22:00|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
+[INFO]2021-12-16 17:22:00|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 17:22:18|django.server|"GET /core/templates/ HTTP/1.1" 200 5925
+[INFO]2021-12-16 17:22:18|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 17:22:18|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 17:22:18|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 17:22:19|django.server|"GET /static/img/fileExtension/pdf.svg HTTP/1.1" 200 1342
+[INFO]2021-12-16 17:22:19|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641
+[INFO]2021-12-16 17:22:23|django.server|"GET /core/templates/upload/SummaryPageTemplate.pdf/ HTTP/1.1" 200 3803
+[INFO]2021-12-16 17:22:23|django.server|"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 48944
+[INFO]2021-12-16 17:22:23|django.server|"GET /static/jquery/jquery.min.js HTTP/1.1" 200 89501
+[INFO]2021-12-16 17:22:23|django.server|"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+[INFO]2021-12-16 17:22:24|django.server|"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 551641

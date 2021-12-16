@@ -173,7 +173,7 @@ export_summary.short_description = 'Export Summary'
 
 
 def save_page(packet, can, file_name, pages):
-    pdf_path = ("InvoiceTemplate.pdf")
+    template_path = "{}/{}/{}".format(settings.MEDIA_ROOT, "TEMPLATES", "InvoiceTemplate.pdf")
     
     print("************* {}".format(file_name))
     can.save()
@@ -184,7 +184,7 @@ def save_page(packet, can, file_name, pages):
     # create a new PDF with Reportlab
     new_pdf = PdfFileReader(packet)
     # read your existing PDF
-    existing_pdf = PdfFileReader(str(pdf_path))
+    existing_pdf = PdfFileReader(str(template_path))
     output = PdfFileWriter()
     # add the "watermark" (which is the new pdf) on the existing page
     page = existing_pdf.getPage(0)
@@ -415,14 +415,14 @@ def generate_invoice(modeladmin, request, queryset, is_custom=False):
         os.rename(f, key)
         
     # Create Summary Page
-    pdf_path = ("SummaryPageTemplate.pdf")
+    template_path = "{}/{}/{}".format(settings.MEDIA_ROOT, "TEMPLATES", "SummaryPageTemplate.pdf")
     packet = io.BytesIO()
     can = canvas.Canvas(packet, pagesize=letter)
     can.setFont("Helvetica", 11)
 
     yy = 664
     line_gap = -15
-    x = 0 
+    x = 0
     total_ub = 0
     total_hours = 0
     total_fahrtkosten = 0
@@ -455,7 +455,7 @@ def generate_invoice(modeladmin, request, queryset, is_custom=False):
     # create a new PDF with Reportlab
     new_pdf = PdfFileReader(packet)
     # read your existing PDF
-    existing_pdf = PdfFileReader(str(pdf_path))
+    existing_pdf = PdfFileReader(str(template_path))
     output = PdfFileWriter()
     # add the "watermark" (which is the new pdf) on the existing page
     page = existing_pdf.getPage(0)
