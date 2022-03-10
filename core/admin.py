@@ -286,13 +286,13 @@ def generate_invoice(modeladmin, request, queryset, is_custom=False):
         
             if q and len(tasks) > 0:
                     
-                if q.km or q.fahrtkosten or q.beschreibung:
-                    print("*****************1************************ {}".format(q.name))
-                    print(q.id)
-                    print(q.name)
-                    print(q.fahrtkosten)
-                    print(q.km)
-                    print(q.beschreibung)
+                # if q.km or q.fahrtkosten or q.beschreibung:
+                    # print("*****************1************************ {}".format(q.name))
+                    # print(q.id)
+                    # print(q.name)
+                    # print(q.fahrtkosten)
+                    # print(q.km)
+                    # print(q.beschreibung)
                 tasks[-1]["fahrtkosten"] = q.fahrtkosten
                 tasks[-1]["km"] = q.km if q.km else ""
                 tasks[-1]["beschreibung"] = q.beschreibung if q.beschreibung else ""
@@ -301,6 +301,7 @@ def generate_invoice(modeladmin, request, queryset, is_custom=False):
                     
         contents[dat.strftime("%d.%m.%Y")] = tasks
        
+    # Having collected all record, now Go write them to file
     maxi = 19
     x_line_a = 50
     x_line_b = 390
@@ -319,22 +320,26 @@ def generate_invoice(modeladmin, request, queryset, is_custom=False):
     for key in contents.keys():
         content = contents[key]
         
-        if key == "20.10.2021":
-            print()
+        if key == "04.02.2022":
+            print("***************-----****************")
+            print(tasks)
+            print("***************-----****************")
         pages = 1
         lower_counter = 0
         
         x = 0
         extra_line = 0
-        is_saved = False
+        
+
         for c in content:
+            is_saved = False
             can.drawString(x_line_a, y_line+((extra_line + x)*line_diff), c["label"])
             can.drawString(x_line_b, y_line+((extra_line + x)*line_diff), str(key))
             can.drawString(x_line_c, y_line+((extra_line + x)*line_diff), c["name"])
             can.drawString(x_line_d, y_line+((extra_line + x)*line_diff), locale.format('%.2f', c["hours"], 1))
             
             if c["fahrtkosten"] or c["km"] or c["beschreibung"]:
-                print("[{}, {}], lower_counter={}, line_diff={}".format(50, 143+(lower_counter*line_diff), lower_counter, line_diff))
+                # print("[{}, {}], lower_counter={}, line_diff={}".format(50, 143+(lower_counter*line_diff), lower_counter, line_diff))
                 xx = 50
                 yy = 143+(lower_counter*line_diff)
                 
@@ -351,7 +356,8 @@ def generate_invoice(modeladmin, request, queryset, is_custom=False):
             x += 1
             if (extra_line + x) >= (maxi * pages):
                 lower_counter = 0
-                multi = save_page(packet, can, "{}{}{}.pdf".format(FOLDER, key, "--{}".format(pages) if pages > 1 else ""), pages)
+                # save_page(packet, can, file_name, pages)
+                multi = save_page(packet, can, f'{FOLDER}{key}{f"--{pages}" if pages > 1 else ""}.pdf', pages)
                 if multi:
                     multi_pages.add(multi)
                 x = 0
