@@ -27,7 +27,7 @@ from django.conf import settings
 
 # def get_export_queryset(self, request):
 #         """
-#         Bla bla bla
+#         Bla bla bla 123
 #         Returns export queryset.
 #         Default implementation respects applied search and filters.
 #         """
